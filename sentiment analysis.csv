@@ -1,0 +1,561 @@
+User,Text,Date Tweeted,Compound Point,Positive Point,Neutral Point,Negative Point,Tweets Ago
+@BBC,"The Generation Game is back! Mel Giedroyc and @sueperkins host the fun family game show, with big prizes to be won… https://t.co/fsdU2b5kkd",Sun Apr 01 18:00:27 +0000 2018,0.7644,0.248,0.752,0.0,1
+@BBC,RT @BBCSport: Happy April Fool's Day everyone! https://t.co/8o8K1YO4SE,Sun Apr 01 17:42:22 +0000 2018,0.6114,0.363,0.637,0.0,2
+@BBC,🤖 Who'd love their next takeaway to be delivered by a robot?  https://t.co/4GZxjNwc2K,Sun Apr 01 17:00:26 +0000 2018,0.6369,0.296,0.704,0.0,3
+@BBC,"🐰 You only need one piece of paper to make this origami Easter bunny! #EasterSunday 
+
+👉 https://t.co/2QvZ01DkVM https://t.co/EQyhG2J8TN",Sun Apr 01 16:03:03 +0000 2018,0.0,0.0,1.0,0.0,4
+@BBC,What is it like to grow up with HIV? Three teenagers share their stories. https://t.co/DraVkYqRTn,Sun Apr 01 15:00:26 +0000 2018,0.5719,0.266,0.734,0.0,5
+@BBC,RT @BBCNews: Royal wedding: Prince Harry and Meghan Markle choose flowers https://t.co/bEV8gIGXKN,Sun Apr 01 14:48:39 +0000 2018,0.0,0.0,1.0,0.0,6
+@BBC,RT @BBCiPlayer: Remember when we discovered that penguins can actually fly? #WeAreStillShook 😱😱 https://t.co/K167WaTNN2,Sun Apr 01 14:47:16 +0000 2018,0.0,0.0,1.0,0.0,7
+@BBC,"RT @bbcweather: As the RAF celebrates 100 years since its formation, here is a rather serene view of this morning's weather at #RAF #Lossie…",Sun Apr 01 12:19:34 +0000 2018,0.7717,0.242,0.758,0.0,8
+@BBC,Our favourite #AprilFoolsDay was when spaghetti grew on trees in 1957. https://t.co/qRGuM9NnRZ,Sun Apr 01 12:14:27 +0000 2018,0.0,0.0,1.0,0.0,9
+@BBC,Could poetry be used as a form of therapy? https://t.co/pw2hBG3heY,Sun Apr 01 12:00:24 +0000 2018,0.0,0.0,1.0,0.0,10
+@BBC,RT @BBCOne: How not to prank your family this Easter. https://t.co/SMXFIukYMJ,Sun Apr 01 11:23:47 +0000 2018,0.0,0.0,1.0,0.0,11
+@BBC,RT @bbcpress: Julien lives! @TchekyKaryo reprises his role as #TheMissing's Julien Baptiste in gripping new @BBCOne drama #Baptiste: https:…,Sun Apr 01 11:19:57 +0000 2018,0.0,0.0,1.0,0.0,12
+@BBC,RT @BBCFood: See how Mary Berry does Easter at her house: https://t.co/qzrkDoA9fS https://t.co/AOUIOo4tgr,Sun Apr 01 11:18:20 +0000 2018,0.0,0.0,1.0,0.0,13
+@BBC,Why do we find chocolate so irresistible? 🍫 🤔 This is the secret reason why we love to eat it. 👉… https://t.co/C8FbJAZQ99,Sun Apr 01 11:04:05 +0000 2018,0.8083,0.289,0.711,0.0,14
+@BBC,RT @bbcpress: 🐰🐰🐰 #HappyEaster from @RealBasilBrush - don't forget to watch #GenerationGame tonight on @BBCOne at 8pm after you've finished…,Sun Apr 01 10:37:30 +0000 2018,0.1695,0.085,0.915,0.0,15
+@BBC,From traditional Easter lunch to laid-back seasonal feasts: @BBCFood have Easter entertaining covered. 🐣🍫🐰🍴 https://t.co/PT7uD9UIvn,Sun Apr 01 10:27:03 +0000 2018,0.4404,0.172,0.828,0.0,16
+@BBC,🍫🐣🎶 @Stormzy1's cover of Sweet Like Chocolate from the @BBCR1 Live Lounge is an eggs-cellent way to start your East… https://t.co/IHlTGrkmfv,Sun Apr 01 10:03:08 +0000 2018,0.6705,0.224,0.776,0.0,17
+@BBC,"""I feel like I'm part of something"". ❤️️ 👂🏼 🍺 Welcome to Deaf Pub, a place where members of the deaf community can… https://t.co/kRwHqCBUrI",Sun Apr 01 09:24:05 +0000 2018,0.6705,0.216,0.784,0.0,18
+@BBC,❤️😢 Man's best friend. https://t.co/xE4rkcBJNv,Sun Apr 01 08:32:07 +0000 2018,0.8126,0.712,0.288,0.0,19
+@BBC,"RT @bbc5live: More parents are giving presents rather than Easter eggs to tackle obesity, according to new research🍫🍫
+
+Are you rationing yo…",Sat Mar 31 21:15:00 +0000 2018,0.3947,0.113,0.887,0.0,20
+@BBC,"The Generation Game is back! Mel Giedroyc and @sueperkins host the fun family game show, with big prizes to be won… https://t.co/fsdU2b5kkd",Sun Apr 01 18:00:27 +0000 2018,0.7644,0.248,0.752,0.0,21
+@BBC,RT @BBCSport: Happy April Fool's Day everyone! https://t.co/8o8K1YO4SE,Sun Apr 01 17:42:22 +0000 2018,0.6114,0.363,0.637,0.0,22
+@BBC,🤖 Who'd love their next takeaway to be delivered by a robot?  https://t.co/4GZxjNwc2K,Sun Apr 01 17:00:26 +0000 2018,0.6369,0.296,0.704,0.0,23
+@BBC,"🐰 You only need one piece of paper to make this origami Easter bunny! #EasterSunday 
+
+👉 https://t.co/2QvZ01DkVM https://t.co/EQyhG2J8TN",Sun Apr 01 16:03:03 +0000 2018,0.0,0.0,1.0,0.0,24
+@BBC,What is it like to grow up with HIV? Three teenagers share their stories. https://t.co/DraVkYqRTn,Sun Apr 01 15:00:26 +0000 2018,0.5719,0.266,0.734,0.0,25
+@BBC,RT @BBCNews: Royal wedding: Prince Harry and Meghan Markle choose flowers https://t.co/bEV8gIGXKN,Sun Apr 01 14:48:39 +0000 2018,0.0,0.0,1.0,0.0,26
+@BBC,RT @BBCiPlayer: Remember when we discovered that penguins can actually fly? #WeAreStillShook 😱😱 https://t.co/K167WaTNN2,Sun Apr 01 14:47:16 +0000 2018,0.0,0.0,1.0,0.0,27
+@BBC,"RT @bbcweather: As the RAF celebrates 100 years since its formation, here is a rather serene view of this morning's weather at #RAF #Lossie…",Sun Apr 01 12:19:34 +0000 2018,0.7717,0.242,0.758,0.0,28
+@BBC,Our favourite #AprilFoolsDay was when spaghetti grew on trees in 1957. https://t.co/qRGuM9NnRZ,Sun Apr 01 12:14:27 +0000 2018,0.0,0.0,1.0,0.0,29
+@BBC,Could poetry be used as a form of therapy? https://t.co/pw2hBG3heY,Sun Apr 01 12:00:24 +0000 2018,0.0,0.0,1.0,0.0,30
+@BBC,RT @BBCOne: How not to prank your family this Easter. https://t.co/SMXFIukYMJ,Sun Apr 01 11:23:47 +0000 2018,0.0,0.0,1.0,0.0,31
+@BBC,RT @bbcpress: Julien lives! @TchekyKaryo reprises his role as #TheMissing's Julien Baptiste in gripping new @BBCOne drama #Baptiste: https:…,Sun Apr 01 11:19:57 +0000 2018,0.0,0.0,1.0,0.0,32
+@BBC,RT @BBCFood: See how Mary Berry does Easter at her house: https://t.co/qzrkDoA9fS https://t.co/AOUIOo4tgr,Sun Apr 01 11:18:20 +0000 2018,0.0,0.0,1.0,0.0,33
+@BBC,Why do we find chocolate so irresistible? 🍫 🤔 This is the secret reason why we love to eat it. 👉… https://t.co/C8FbJAZQ99,Sun Apr 01 11:04:05 +0000 2018,0.8083,0.289,0.711,0.0,34
+@BBC,RT @bbcpress: 🐰🐰🐰 #HappyEaster from @RealBasilBrush - don't forget to watch #GenerationGame tonight on @BBCOne at 8pm after you've finished…,Sun Apr 01 10:37:30 +0000 2018,0.1695,0.085,0.915,0.0,35
+@BBC,From traditional Easter lunch to laid-back seasonal feasts: @BBCFood have Easter entertaining covered. 🐣🍫🐰🍴 https://t.co/PT7uD9UIvn,Sun Apr 01 10:27:03 +0000 2018,0.4404,0.172,0.828,0.0,36
+@BBC,🍫🐣🎶 @Stormzy1's cover of Sweet Like Chocolate from the @BBCR1 Live Lounge is an eggs-cellent way to start your East… https://t.co/IHlTGrkmfv,Sun Apr 01 10:03:08 +0000 2018,0.6705,0.224,0.776,0.0,37
+@BBC,"""I feel like I'm part of something"". ❤️️ 👂🏼 🍺 Welcome to Deaf Pub, a place where members of the deaf community can… https://t.co/kRwHqCBUrI",Sun Apr 01 09:24:05 +0000 2018,0.6705,0.216,0.784,0.0,38
+@BBC,❤️😢 Man's best friend. https://t.co/xE4rkcBJNv,Sun Apr 01 08:32:07 +0000 2018,0.8126,0.712,0.288,0.0,39
+@BBC,"RT @bbc5live: More parents are giving presents rather than Easter eggs to tackle obesity, according to new research🍫🍫
+
+Are you rationing yo…",Sat Mar 31 21:15:00 +0000 2018,0.3947,0.113,0.887,0.0,40
+@BBC,"The Generation Game is back! Mel Giedroyc and @sueperkins host the fun family game show, with big prizes to be won… https://t.co/fsdU2b5kkd",Sun Apr 01 18:00:27 +0000 2018,0.7644,0.248,0.752,0.0,41
+@BBC,RT @BBCSport: Happy April Fool's Day everyone! https://t.co/8o8K1YO4SE,Sun Apr 01 17:42:22 +0000 2018,0.6114,0.363,0.637,0.0,42
+@BBC,🤖 Who'd love their next takeaway to be delivered by a robot?  https://t.co/4GZxjNwc2K,Sun Apr 01 17:00:26 +0000 2018,0.6369,0.296,0.704,0.0,43
+@BBC,"🐰 You only need one piece of paper to make this origami Easter bunny! #EasterSunday 
+
+👉 https://t.co/2QvZ01DkVM https://t.co/EQyhG2J8TN",Sun Apr 01 16:03:03 +0000 2018,0.0,0.0,1.0,0.0,44
+@BBC,What is it like to grow up with HIV? Three teenagers share their stories. https://t.co/DraVkYqRTn,Sun Apr 01 15:00:26 +0000 2018,0.5719,0.266,0.734,0.0,45
+@BBC,RT @BBCNews: Royal wedding: Prince Harry and Meghan Markle choose flowers https://t.co/bEV8gIGXKN,Sun Apr 01 14:48:39 +0000 2018,0.0,0.0,1.0,0.0,46
+@BBC,RT @BBCiPlayer: Remember when we discovered that penguins can actually fly? #WeAreStillShook 😱😱 https://t.co/K167WaTNN2,Sun Apr 01 14:47:16 +0000 2018,0.0,0.0,1.0,0.0,47
+@BBC,"RT @bbcweather: As the RAF celebrates 100 years since its formation, here is a rather serene view of this morning's weather at #RAF #Lossie…",Sun Apr 01 12:19:34 +0000 2018,0.7717,0.242,0.758,0.0,48
+@BBC,Our favourite #AprilFoolsDay was when spaghetti grew on trees in 1957. https://t.co/qRGuM9NnRZ,Sun Apr 01 12:14:27 +0000 2018,0.0,0.0,1.0,0.0,49
+@BBC,Could poetry be used as a form of therapy? https://t.co/pw2hBG3heY,Sun Apr 01 12:00:24 +0000 2018,0.0,0.0,1.0,0.0,50
+@BBC,RT @BBCOne: How not to prank your family this Easter. https://t.co/SMXFIukYMJ,Sun Apr 01 11:23:47 +0000 2018,0.0,0.0,1.0,0.0,51
+@BBC,RT @bbcpress: Julien lives! @TchekyKaryo reprises his role as #TheMissing's Julien Baptiste in gripping new @BBCOne drama #Baptiste: https:…,Sun Apr 01 11:19:57 +0000 2018,0.0,0.0,1.0,0.0,52
+@BBC,RT @BBCFood: See how Mary Berry does Easter at her house: https://t.co/qzrkDoA9fS https://t.co/AOUIOo4tgr,Sun Apr 01 11:18:20 +0000 2018,0.0,0.0,1.0,0.0,53
+@BBC,Why do we find chocolate so irresistible? 🍫 🤔 This is the secret reason why we love to eat it. 👉… https://t.co/C8FbJAZQ99,Sun Apr 01 11:04:05 +0000 2018,0.8083,0.289,0.711,0.0,54
+@BBC,RT @bbcpress: 🐰🐰🐰 #HappyEaster from @RealBasilBrush - don't forget to watch #GenerationGame tonight on @BBCOne at 8pm after you've finished…,Sun Apr 01 10:37:30 +0000 2018,0.1695,0.085,0.915,0.0,55
+@BBC,From traditional Easter lunch to laid-back seasonal feasts: @BBCFood have Easter entertaining covered. 🐣🍫🐰🍴 https://t.co/PT7uD9UIvn,Sun Apr 01 10:27:03 +0000 2018,0.4404,0.172,0.828,0.0,56
+@BBC,🍫🐣🎶 @Stormzy1's cover of Sweet Like Chocolate from the @BBCR1 Live Lounge is an eggs-cellent way to start your East… https://t.co/IHlTGrkmfv,Sun Apr 01 10:03:08 +0000 2018,0.6705,0.224,0.776,0.0,57
+@BBC,"""I feel like I'm part of something"". ❤️️ 👂🏼 🍺 Welcome to Deaf Pub, a place where members of the deaf community can… https://t.co/kRwHqCBUrI",Sun Apr 01 09:24:05 +0000 2018,0.6705,0.216,0.784,0.0,58
+@BBC,❤️😢 Man's best friend. https://t.co/xE4rkcBJNv,Sun Apr 01 08:32:07 +0000 2018,0.8126,0.712,0.288,0.0,59
+@BBC,"RT @bbc5live: More parents are giving presents rather than Easter eggs to tackle obesity, according to new research🍫🍫
+
+Are you rationing yo…",Sat Mar 31 21:15:00 +0000 2018,0.3947,0.113,0.887,0.0,60
+@BBC,"The Generation Game is back! Mel Giedroyc and @sueperkins host the fun family game show, with big prizes to be won… https://t.co/fsdU2b5kkd",Sun Apr 01 18:00:27 +0000 2018,0.7644,0.248,0.752,0.0,61
+@BBC,RT @BBCSport: Happy April Fool's Day everyone! https://t.co/8o8K1YO4SE,Sun Apr 01 17:42:22 +0000 2018,0.6114,0.363,0.637,0.0,62
+@BBC,🤖 Who'd love their next takeaway to be delivered by a robot?  https://t.co/4GZxjNwc2K,Sun Apr 01 17:00:26 +0000 2018,0.6369,0.296,0.704,0.0,63
+@BBC,"🐰 You only need one piece of paper to make this origami Easter bunny! #EasterSunday 
+
+👉 https://t.co/2QvZ01DkVM https://t.co/EQyhG2J8TN",Sun Apr 01 16:03:03 +0000 2018,0.0,0.0,1.0,0.0,64
+@BBC,What is it like to grow up with HIV? Three teenagers share their stories. https://t.co/DraVkYqRTn,Sun Apr 01 15:00:26 +0000 2018,0.5719,0.266,0.734,0.0,65
+@BBC,RT @BBCNews: Royal wedding: Prince Harry and Meghan Markle choose flowers https://t.co/bEV8gIGXKN,Sun Apr 01 14:48:39 +0000 2018,0.0,0.0,1.0,0.0,66
+@BBC,RT @BBCiPlayer: Remember when we discovered that penguins can actually fly? #WeAreStillShook 😱😱 https://t.co/K167WaTNN2,Sun Apr 01 14:47:16 +0000 2018,0.0,0.0,1.0,0.0,67
+@BBC,"RT @bbcweather: As the RAF celebrates 100 years since its formation, here is a rather serene view of this morning's weather at #RAF #Lossie…",Sun Apr 01 12:19:34 +0000 2018,0.7717,0.242,0.758,0.0,68
+@BBC,Our favourite #AprilFoolsDay was when spaghetti grew on trees in 1957. https://t.co/qRGuM9NnRZ,Sun Apr 01 12:14:27 +0000 2018,0.0,0.0,1.0,0.0,69
+@BBC,Could poetry be used as a form of therapy? https://t.co/pw2hBG3heY,Sun Apr 01 12:00:24 +0000 2018,0.0,0.0,1.0,0.0,70
+@BBC,RT @BBCOne: How not to prank your family this Easter. https://t.co/SMXFIukYMJ,Sun Apr 01 11:23:47 +0000 2018,0.0,0.0,1.0,0.0,71
+@BBC,RT @bbcpress: Julien lives! @TchekyKaryo reprises his role as #TheMissing's Julien Baptiste in gripping new @BBCOne drama #Baptiste: https:…,Sun Apr 01 11:19:57 +0000 2018,0.0,0.0,1.0,0.0,72
+@BBC,RT @BBCFood: See how Mary Berry does Easter at her house: https://t.co/qzrkDoA9fS https://t.co/AOUIOo4tgr,Sun Apr 01 11:18:20 +0000 2018,0.0,0.0,1.0,0.0,73
+@BBC,Why do we find chocolate so irresistible? 🍫 🤔 This is the secret reason why we love to eat it. 👉… https://t.co/C8FbJAZQ99,Sun Apr 01 11:04:05 +0000 2018,0.8083,0.289,0.711,0.0,74
+@BBC,RT @bbcpress: 🐰🐰🐰 #HappyEaster from @RealBasilBrush - don't forget to watch #GenerationGame tonight on @BBCOne at 8pm after you've finished…,Sun Apr 01 10:37:30 +0000 2018,0.1695,0.085,0.915,0.0,75
+@BBC,From traditional Easter lunch to laid-back seasonal feasts: @BBCFood have Easter entertaining covered. 🐣🍫🐰🍴 https://t.co/PT7uD9UIvn,Sun Apr 01 10:27:03 +0000 2018,0.4404,0.172,0.828,0.0,76
+@BBC,🍫🐣🎶 @Stormzy1's cover of Sweet Like Chocolate from the @BBCR1 Live Lounge is an eggs-cellent way to start your East… https://t.co/IHlTGrkmfv,Sun Apr 01 10:03:08 +0000 2018,0.6705,0.224,0.776,0.0,77
+@BBC,"""I feel like I'm part of something"". ❤️️ 👂🏼 🍺 Welcome to Deaf Pub, a place where members of the deaf community can… https://t.co/kRwHqCBUrI",Sun Apr 01 09:24:05 +0000 2018,0.6705,0.216,0.784,0.0,78
+@BBC,❤️😢 Man's best friend. https://t.co/xE4rkcBJNv,Sun Apr 01 08:32:07 +0000 2018,0.8126,0.712,0.288,0.0,79
+@BBC,"RT @bbc5live: More parents are giving presents rather than Easter eggs to tackle obesity, according to new research🍫🍫
+
+Are you rationing yo…",Sat Mar 31 21:15:00 +0000 2018,0.3947,0.113,0.887,0.0,80
+@BBC,"The Generation Game is back! Mel Giedroyc and @sueperkins host the fun family game show, with big prizes to be won… https://t.co/fsdU2b5kkd",Sun Apr 01 18:00:27 +0000 2018,0.7644,0.248,0.752,0.0,81
+@BBC,RT @BBCSport: Happy April Fool's Day everyone! https://t.co/8o8K1YO4SE,Sun Apr 01 17:42:22 +0000 2018,0.6114,0.363,0.637,0.0,82
+@BBC,🤖 Who'd love their next takeaway to be delivered by a robot?  https://t.co/4GZxjNwc2K,Sun Apr 01 17:00:26 +0000 2018,0.6369,0.296,0.704,0.0,83
+@BBC,"🐰 You only need one piece of paper to make this origami Easter bunny! #EasterSunday 
+
+👉 https://t.co/2QvZ01DkVM https://t.co/EQyhG2J8TN",Sun Apr 01 16:03:03 +0000 2018,0.0,0.0,1.0,0.0,84
+@BBC,What is it like to grow up with HIV? Three teenagers share their stories. https://t.co/DraVkYqRTn,Sun Apr 01 15:00:26 +0000 2018,0.5719,0.266,0.734,0.0,85
+@BBC,RT @BBCNews: Royal wedding: Prince Harry and Meghan Markle choose flowers https://t.co/bEV8gIGXKN,Sun Apr 01 14:48:39 +0000 2018,0.0,0.0,1.0,0.0,86
+@BBC,RT @BBCiPlayer: Remember when we discovered that penguins can actually fly? #WeAreStillShook 😱😱 https://t.co/K167WaTNN2,Sun Apr 01 14:47:16 +0000 2018,0.0,0.0,1.0,0.0,87
+@BBC,"RT @bbcweather: As the RAF celebrates 100 years since its formation, here is a rather serene view of this morning's weather at #RAF #Lossie…",Sun Apr 01 12:19:34 +0000 2018,0.7717,0.242,0.758,0.0,88
+@BBC,Our favourite #AprilFoolsDay was when spaghetti grew on trees in 1957. https://t.co/qRGuM9NnRZ,Sun Apr 01 12:14:27 +0000 2018,0.0,0.0,1.0,0.0,89
+@BBC,Could poetry be used as a form of therapy? https://t.co/pw2hBG3heY,Sun Apr 01 12:00:24 +0000 2018,0.0,0.0,1.0,0.0,90
+@BBC,RT @BBCOne: How not to prank your family this Easter. https://t.co/SMXFIukYMJ,Sun Apr 01 11:23:47 +0000 2018,0.0,0.0,1.0,0.0,91
+@BBC,RT @bbcpress: Julien lives! @TchekyKaryo reprises his role as #TheMissing's Julien Baptiste in gripping new @BBCOne drama #Baptiste: https:…,Sun Apr 01 11:19:57 +0000 2018,0.0,0.0,1.0,0.0,92
+@BBC,RT @BBCFood: See how Mary Berry does Easter at her house: https://t.co/qzrkDoA9fS https://t.co/AOUIOo4tgr,Sun Apr 01 11:18:20 +0000 2018,0.0,0.0,1.0,0.0,93
+@BBC,Why do we find chocolate so irresistible? 🍫 🤔 This is the secret reason why we love to eat it. 👉… https://t.co/C8FbJAZQ99,Sun Apr 01 11:04:05 +0000 2018,0.8083,0.289,0.711,0.0,94
+@BBC,RT @bbcpress: 🐰🐰🐰 #HappyEaster from @RealBasilBrush - don't forget to watch #GenerationGame tonight on @BBCOne at 8pm after you've finished…,Sun Apr 01 10:37:30 +0000 2018,0.1695,0.085,0.915,0.0,95
+@BBC,From traditional Easter lunch to laid-back seasonal feasts: @BBCFood have Easter entertaining covered. 🐣🍫🐰🍴 https://t.co/PT7uD9UIvn,Sun Apr 01 10:27:03 +0000 2018,0.4404,0.172,0.828,0.0,96
+@BBC,🍫🐣🎶 @Stormzy1's cover of Sweet Like Chocolate from the @BBCR1 Live Lounge is an eggs-cellent way to start your East… https://t.co/IHlTGrkmfv,Sun Apr 01 10:03:08 +0000 2018,0.6705,0.224,0.776,0.0,97
+@BBC,"""I feel like I'm part of something"". ❤️️ 👂🏼 🍺 Welcome to Deaf Pub, a place where members of the deaf community can… https://t.co/kRwHqCBUrI",Sun Apr 01 09:24:05 +0000 2018,0.6705,0.216,0.784,0.0,98
+@BBC,❤️😢 Man's best friend. https://t.co/xE4rkcBJNv,Sun Apr 01 08:32:07 +0000 2018,0.8126,0.712,0.288,0.0,99
+@BBC,"RT @bbc5live: More parents are giving presents rather than Easter eggs to tackle obesity, according to new research🍫🍫
+
+Are you rationing yo…",Sat Mar 31 21:15:00 +0000 2018,0.3947,0.113,0.887,0.0,100
+@CBS,The Las Vegas strip is about to light up brighter than ever before when Country Music’s Party Of The Year® takes ov… https://t.co/j1A2ZVHAoO,Sun Apr 01 17:00:03 +0000 2018,0.6486,0.202,0.798,0.0,1
+@CBS,"“If you don’t do something about it, then who are you? … It can happen to anyone.” - @aplusk 
+
+Tonight at 10/9c, a… https://t.co/EQabNc1UZI",Sat Mar 31 18:00:00 +0000 2018,0.0,0.0,1.0,0.0,2
+@CBS,Give it up for @KelseaBallerini! This star is one of the Female Vocalist Of The Year nominees and she's ready to ta… https://t.co/wLyHwkEGs2,Sat Mar 31 15:30:00 +0000 2018,0.4199,0.113,0.887,0.0,3
+@CBS,Take and post a photo of the woman in your life who inspires you! The photo should only have one person against a n… https://t.co/BHdxXlWfKP,Fri Mar 30 16:50:00 +0000 2018,0.4926,0.127,0.873,0.0,4
+@CBS,"Expect epic performances by @kanebrown , @kelly_clarkson, @OfficialJackson, and more at this year's 53rd #ACMawards… https://t.co/3yso7Z0cjv",Thu Mar 29 17:32:40 +0000 2018,0.0,0.0,1.0,0.0,5
+@CBS,"Will @HIGHVALLEY, @LancoMusic, @LOCASHmusic, @MidlandOfficial, or @runawayjune be named New Vocal Duo Or Group Of T… https://t.co/v0QIPLC47R",Thu Mar 29 17:30:02 +0000 2018,0.0,0.0,1.0,0.0,6
+@CBS,Count on Entertainer Of The Year nominee @LukeBryanOnline to crash the party with an epic performance at the 53rd… https://t.co/27ua60HTqu,Tue Mar 27 21:00:01 +0000 2018,0.3818,0.212,0.68,0.108,7
+@CBS,Join @eltonofficial and some of today's hottest names in music when they take the stage to perform his most memorab… https://t.co/jz0jaShZIj,Tue Mar 27 17:00:00 +0000 2018,0.296,0.099,0.901,0.0,8
+@CBS,"RT @ACMawards: The ACM for New Vocal Group of the Year goes to @MidlandOfficial! And yes, that really was @Reba on the phone! #ACMawards ht…",Mon Mar 26 22:14:25 +0000 2018,0.508,0.12,0.88,0.0,9
+@CBS,"RT @ACMawards: In case you didn’t know, the ACM for New Male Vocalist of the Year goes to @BrettYoungMusic. Check out his reaction when @Re…",Mon Mar 26 20:42:48 +0000 2018,0.0,0.0,1.0,0.0,10
+@CBS,RT @ACMawards: Over the weekend @Reba called the ACM New Artist of the Year winners to let them know they had won! Let’s just say our New F…,Mon Mar 26 16:59:19 +0000 2018,0.7959,0.214,0.786,0.0,11
+@CBS,"Congratulations to the 53rd #ACMawards New Artist winners @Lauren_Alaina, @MidlandOfficial, and @BrettYoungMusic! W… https://t.co/Fr8H4arwGj",Mon Mar 26 16:05:18 +0000 2018,0.807,0.378,0.622,0.0,12
+@CBS,New start times in East/Central Time Zones #60Minutes 7:35ET/6:35CT #Instinct  8:35ET/7:35CT #NCISLA 9:35ET/8:35CT… https://t.co/8W5hAeLrvs,Sun Mar 25 23:57:34 +0000 2018,0.0,0.0,1.0,0.0,13
+@CBS,Don’t miss a minute of the action. Stream the Elite Eight® games LIVE today starting at 2PM ET with a FREE trial of… https://t.co/8NwU8HdiHR,Sun Mar 25 17:15:25 +0000 2018,0.5319,0.157,0.78,0.062,14
+@CBS,RT @MomCBS: That's a wrap on the #Mom panel at #PaleyFest! Thanks for following along! https://t.co/we4JgqPt6P,Sat Mar 24 22:46:53 +0000 2018,0.5399,0.199,0.801,0.0,15
+@CBS,RT @MomCBS: A fan just commented that #Mom helped bring him out of a deep depression. 💜💜💜 #PaleyFest,Sat Mar 24 22:46:43 +0000 2018,-0.34,0.115,0.7,0.185,16
+@CBS,"RT @MomCBS: ""Go out for it anyway. If you're good for the role, you're good for the role."" @theJaimePressly's advice for aspiring actors wi…",Sat Mar 24 22:25:03 +0000 2018,0.7003,0.209,0.791,0.0,17
+@CBS,RT @MomCBS: Mom Co-Creator @GemmaRBaker just pointed out her own #Mom in the audience at #PaleyFest! 💜,Sat Mar 24 22:21:37 +0000 2018,0.0,0.0,1.0,0.0,18
+@CBS,"RT @MomCBS: ""I'm not someone in recovery who goes to AA, but I have taken so much away from it...to take one day at a time."" - @theJaimePre…",Sat Mar 24 22:21:34 +0000 2018,0.0,0.0,1.0,0.0,19
+@CBS,"RT @MomCBS: ""You get to appreciate working with such talented people."" - @AnnaKFaris #Mom #PaleyFest",Sat Mar 24 22:21:26 +0000 2018,0.7184,0.333,0.667,0.0,20
+@CBS,The Las Vegas strip is about to light up brighter than ever before when Country Music’s Party Of The Year® takes ov… https://t.co/j1A2ZVHAoO,Sun Apr 01 17:00:03 +0000 2018,0.6486,0.202,0.798,0.0,21
+@CBS,"“If you don’t do something about it, then who are you? … It can happen to anyone.” - @aplusk 
+
+Tonight at 10/9c, a… https://t.co/EQabNc1UZI",Sat Mar 31 18:00:00 +0000 2018,0.0,0.0,1.0,0.0,22
+@CBS,Give it up for @KelseaBallerini! This star is one of the Female Vocalist Of The Year nominees and she's ready to ta… https://t.co/wLyHwkEGs2,Sat Mar 31 15:30:00 +0000 2018,0.4199,0.113,0.887,0.0,23
+@CBS,Take and post a photo of the woman in your life who inspires you! The photo should only have one person against a n… https://t.co/BHdxXlWfKP,Fri Mar 30 16:50:00 +0000 2018,0.4926,0.127,0.873,0.0,24
+@CBS,"Expect epic performances by @kanebrown , @kelly_clarkson, @OfficialJackson, and more at this year's 53rd #ACMawards… https://t.co/3yso7Z0cjv",Thu Mar 29 17:32:40 +0000 2018,0.0,0.0,1.0,0.0,25
+@CBS,"Will @HIGHVALLEY, @LancoMusic, @LOCASHmusic, @MidlandOfficial, or @runawayjune be named New Vocal Duo Or Group Of T… https://t.co/v0QIPLC47R",Thu Mar 29 17:30:02 +0000 2018,0.0,0.0,1.0,0.0,26
+@CBS,Count on Entertainer Of The Year nominee @LukeBryanOnline to crash the party with an epic performance at the 53rd… https://t.co/27ua60HTqu,Tue Mar 27 21:00:01 +0000 2018,0.3818,0.212,0.68,0.108,27
+@CBS,Join @eltonofficial and some of today's hottest names in music when they take the stage to perform his most memorab… https://t.co/jz0jaShZIj,Tue Mar 27 17:00:00 +0000 2018,0.296,0.099,0.901,0.0,28
+@CBS,"RT @ACMawards: The ACM for New Vocal Group of the Year goes to @MidlandOfficial! And yes, that really was @Reba on the phone! #ACMawards ht…",Mon Mar 26 22:14:25 +0000 2018,0.508,0.12,0.88,0.0,29
+@CBS,"RT @ACMawards: In case you didn’t know, the ACM for New Male Vocalist of the Year goes to @BrettYoungMusic. Check out his reaction when @Re…",Mon Mar 26 20:42:48 +0000 2018,0.0,0.0,1.0,0.0,30
+@CBS,RT @ACMawards: Over the weekend @Reba called the ACM New Artist of the Year winners to let them know they had won! Let’s just say our New F…,Mon Mar 26 16:59:19 +0000 2018,0.7959,0.214,0.786,0.0,31
+@CBS,"Congratulations to the 53rd #ACMawards New Artist winners @Lauren_Alaina, @MidlandOfficial, and @BrettYoungMusic! W… https://t.co/Fr8H4arwGj",Mon Mar 26 16:05:18 +0000 2018,0.807,0.378,0.622,0.0,32
+@CBS,New start times in East/Central Time Zones #60Minutes 7:35ET/6:35CT #Instinct  8:35ET/7:35CT #NCISLA 9:35ET/8:35CT… https://t.co/8W5hAeLrvs,Sun Mar 25 23:57:34 +0000 2018,0.0,0.0,1.0,0.0,33
+@CBS,Don’t miss a minute of the action. Stream the Elite Eight® games LIVE today starting at 2PM ET with a FREE trial of… https://t.co/8NwU8HdiHR,Sun Mar 25 17:15:25 +0000 2018,0.5319,0.157,0.78,0.062,34
+@CBS,RT @MomCBS: That's a wrap on the #Mom panel at #PaleyFest! Thanks for following along! https://t.co/we4JgqPt6P,Sat Mar 24 22:46:53 +0000 2018,0.5399,0.199,0.801,0.0,35
+@CBS,RT @MomCBS: A fan just commented that #Mom helped bring him out of a deep depression. 💜💜💜 #PaleyFest,Sat Mar 24 22:46:43 +0000 2018,-0.34,0.115,0.7,0.185,36
+@CBS,"RT @MomCBS: ""Go out for it anyway. If you're good for the role, you're good for the role."" @theJaimePressly's advice for aspiring actors wi…",Sat Mar 24 22:25:03 +0000 2018,0.7003,0.209,0.791,0.0,37
+@CBS,RT @MomCBS: Mom Co-Creator @GemmaRBaker just pointed out her own #Mom in the audience at #PaleyFest! 💜,Sat Mar 24 22:21:37 +0000 2018,0.0,0.0,1.0,0.0,38
+@CBS,"RT @MomCBS: ""I'm not someone in recovery who goes to AA, but I have taken so much away from it...to take one day at a time."" - @theJaimePre…",Sat Mar 24 22:21:34 +0000 2018,0.0,0.0,1.0,0.0,39
+@CBS,"RT @MomCBS: ""You get to appreciate working with such talented people."" - @AnnaKFaris #Mom #PaleyFest",Sat Mar 24 22:21:26 +0000 2018,0.7184,0.333,0.667,0.0,40
+@CBS,The Las Vegas strip is about to light up brighter than ever before when Country Music’s Party Of The Year® takes ov… https://t.co/j1A2ZVHAoO,Sun Apr 01 17:00:03 +0000 2018,0.6486,0.202,0.798,0.0,41
+@CBS,"“If you don’t do something about it, then who are you? … It can happen to anyone.” - @aplusk 
+
+Tonight at 10/9c, a… https://t.co/EQabNc1UZI",Sat Mar 31 18:00:00 +0000 2018,0.0,0.0,1.0,0.0,42
+@CBS,Give it up for @KelseaBallerini! This star is one of the Female Vocalist Of The Year nominees and she's ready to ta… https://t.co/wLyHwkEGs2,Sat Mar 31 15:30:00 +0000 2018,0.4199,0.113,0.887,0.0,43
+@CBS,Take and post a photo of the woman in your life who inspires you! The photo should only have one person against a n… https://t.co/BHdxXlWfKP,Fri Mar 30 16:50:00 +0000 2018,0.4926,0.127,0.873,0.0,44
+@CBS,"Expect epic performances by @kanebrown , @kelly_clarkson, @OfficialJackson, and more at this year's 53rd #ACMawards… https://t.co/3yso7Z0cjv",Thu Mar 29 17:32:40 +0000 2018,0.0,0.0,1.0,0.0,45
+@CBS,"Will @HIGHVALLEY, @LancoMusic, @LOCASHmusic, @MidlandOfficial, or @runawayjune be named New Vocal Duo Or Group Of T… https://t.co/v0QIPLC47R",Thu Mar 29 17:30:02 +0000 2018,0.0,0.0,1.0,0.0,46
+@CBS,Count on Entertainer Of The Year nominee @LukeBryanOnline to crash the party with an epic performance at the 53rd… https://t.co/27ua60HTqu,Tue Mar 27 21:00:01 +0000 2018,0.3818,0.212,0.68,0.108,47
+@CBS,Join @eltonofficial and some of today's hottest names in music when they take the stage to perform his most memorab… https://t.co/jz0jaShZIj,Tue Mar 27 17:00:00 +0000 2018,0.296,0.099,0.901,0.0,48
+@CBS,"RT @ACMawards: The ACM for New Vocal Group of the Year goes to @MidlandOfficial! And yes, that really was @Reba on the phone! #ACMawards ht…",Mon Mar 26 22:14:25 +0000 2018,0.508,0.12,0.88,0.0,49
+@CBS,"RT @ACMawards: In case you didn’t know, the ACM for New Male Vocalist of the Year goes to @BrettYoungMusic. Check out his reaction when @Re…",Mon Mar 26 20:42:48 +0000 2018,0.0,0.0,1.0,0.0,50
+@CBS,RT @ACMawards: Over the weekend @Reba called the ACM New Artist of the Year winners to let them know they had won! Let’s just say our New F…,Mon Mar 26 16:59:19 +0000 2018,0.7959,0.214,0.786,0.0,51
+@CBS,"Congratulations to the 53rd #ACMawards New Artist winners @Lauren_Alaina, @MidlandOfficial, and @BrettYoungMusic! W… https://t.co/Fr8H4arwGj",Mon Mar 26 16:05:18 +0000 2018,0.807,0.378,0.622,0.0,52
+@CBS,New start times in East/Central Time Zones #60Minutes 7:35ET/6:35CT #Instinct  8:35ET/7:35CT #NCISLA 9:35ET/8:35CT… https://t.co/8W5hAeLrvs,Sun Mar 25 23:57:34 +0000 2018,0.0,0.0,1.0,0.0,53
+@CBS,Don’t miss a minute of the action. Stream the Elite Eight® games LIVE today starting at 2PM ET with a FREE trial of… https://t.co/8NwU8HdiHR,Sun Mar 25 17:15:25 +0000 2018,0.5319,0.157,0.78,0.062,54
+@CBS,RT @MomCBS: That's a wrap on the #Mom panel at #PaleyFest! Thanks for following along! https://t.co/we4JgqPt6P,Sat Mar 24 22:46:53 +0000 2018,0.5399,0.199,0.801,0.0,55
+@CBS,RT @MomCBS: A fan just commented that #Mom helped bring him out of a deep depression. 💜💜💜 #PaleyFest,Sat Mar 24 22:46:43 +0000 2018,-0.34,0.115,0.7,0.185,56
+@CBS,"RT @MomCBS: ""Go out for it anyway. If you're good for the role, you're good for the role."" @theJaimePressly's advice for aspiring actors wi…",Sat Mar 24 22:25:03 +0000 2018,0.7003,0.209,0.791,0.0,57
+@CBS,RT @MomCBS: Mom Co-Creator @GemmaRBaker just pointed out her own #Mom in the audience at #PaleyFest! 💜,Sat Mar 24 22:21:37 +0000 2018,0.0,0.0,1.0,0.0,58
+@CBS,"RT @MomCBS: ""I'm not someone in recovery who goes to AA, but I have taken so much away from it...to take one day at a time."" - @theJaimePre…",Sat Mar 24 22:21:34 +0000 2018,0.0,0.0,1.0,0.0,59
+@CBS,"RT @MomCBS: ""You get to appreciate working with such talented people."" - @AnnaKFaris #Mom #PaleyFest",Sat Mar 24 22:21:26 +0000 2018,0.7184,0.333,0.667,0.0,60
+@CBS,The Las Vegas strip is about to light up brighter than ever before when Country Music’s Party Of The Year® takes ov… https://t.co/j1A2ZVHAoO,Sun Apr 01 17:00:03 +0000 2018,0.6486,0.202,0.798,0.0,61
+@CBS,"“If you don’t do something about it, then who are you? … It can happen to anyone.” - @aplusk 
+
+Tonight at 10/9c, a… https://t.co/EQabNc1UZI",Sat Mar 31 18:00:00 +0000 2018,0.0,0.0,1.0,0.0,62
+@CBS,Give it up for @KelseaBallerini! This star is one of the Female Vocalist Of The Year nominees and she's ready to ta… https://t.co/wLyHwkEGs2,Sat Mar 31 15:30:00 +0000 2018,0.4199,0.113,0.887,0.0,63
+@CBS,Take and post a photo of the woman in your life who inspires you! The photo should only have one person against a n… https://t.co/BHdxXlWfKP,Fri Mar 30 16:50:00 +0000 2018,0.4926,0.127,0.873,0.0,64
+@CBS,"Expect epic performances by @kanebrown , @kelly_clarkson, @OfficialJackson, and more at this year's 53rd #ACMawards… https://t.co/3yso7Z0cjv",Thu Mar 29 17:32:40 +0000 2018,0.0,0.0,1.0,0.0,65
+@CBS,"Will @HIGHVALLEY, @LancoMusic, @LOCASHmusic, @MidlandOfficial, or @runawayjune be named New Vocal Duo Or Group Of T… https://t.co/v0QIPLC47R",Thu Mar 29 17:30:02 +0000 2018,0.0,0.0,1.0,0.0,66
+@CBS,Count on Entertainer Of The Year nominee @LukeBryanOnline to crash the party with an epic performance at the 53rd… https://t.co/27ua60HTqu,Tue Mar 27 21:00:01 +0000 2018,0.3818,0.212,0.68,0.108,67
+@CBS,Join @eltonofficial and some of today's hottest names in music when they take the stage to perform his most memorab… https://t.co/jz0jaShZIj,Tue Mar 27 17:00:00 +0000 2018,0.296,0.099,0.901,0.0,68
+@CBS,"RT @ACMawards: The ACM for New Vocal Group of the Year goes to @MidlandOfficial! And yes, that really was @Reba on the phone! #ACMawards ht…",Mon Mar 26 22:14:25 +0000 2018,0.508,0.12,0.88,0.0,69
+@CBS,"RT @ACMawards: In case you didn’t know, the ACM for New Male Vocalist of the Year goes to @BrettYoungMusic. Check out his reaction when @Re…",Mon Mar 26 20:42:48 +0000 2018,0.0,0.0,1.0,0.0,70
+@CBS,RT @ACMawards: Over the weekend @Reba called the ACM New Artist of the Year winners to let them know they had won! Let’s just say our New F…,Mon Mar 26 16:59:19 +0000 2018,0.7959,0.214,0.786,0.0,71
+@CBS,"Congratulations to the 53rd #ACMawards New Artist winners @Lauren_Alaina, @MidlandOfficial, and @BrettYoungMusic! W… https://t.co/Fr8H4arwGj",Mon Mar 26 16:05:18 +0000 2018,0.807,0.378,0.622,0.0,72
+@CBS,New start times in East/Central Time Zones #60Minutes 7:35ET/6:35CT #Instinct  8:35ET/7:35CT #NCISLA 9:35ET/8:35CT… https://t.co/8W5hAeLrvs,Sun Mar 25 23:57:34 +0000 2018,0.0,0.0,1.0,0.0,73
+@CBS,Don’t miss a minute of the action. Stream the Elite Eight® games LIVE today starting at 2PM ET with a FREE trial of… https://t.co/8NwU8HdiHR,Sun Mar 25 17:15:25 +0000 2018,0.5319,0.157,0.78,0.062,74
+@CBS,RT @MomCBS: That's a wrap on the #Mom panel at #PaleyFest! Thanks for following along! https://t.co/we4JgqPt6P,Sat Mar 24 22:46:53 +0000 2018,0.5399,0.199,0.801,0.0,75
+@CBS,RT @MomCBS: A fan just commented that #Mom helped bring him out of a deep depression. 💜💜💜 #PaleyFest,Sat Mar 24 22:46:43 +0000 2018,-0.34,0.115,0.7,0.185,76
+@CBS,"RT @MomCBS: ""Go out for it anyway. If you're good for the role, you're good for the role."" @theJaimePressly's advice for aspiring actors wi…",Sat Mar 24 22:25:03 +0000 2018,0.7003,0.209,0.791,0.0,77
+@CBS,RT @MomCBS: Mom Co-Creator @GemmaRBaker just pointed out her own #Mom in the audience at #PaleyFest! 💜,Sat Mar 24 22:21:37 +0000 2018,0.0,0.0,1.0,0.0,78
+@CBS,"RT @MomCBS: ""I'm not someone in recovery who goes to AA, but I have taken so much away from it...to take one day at a time."" - @theJaimePre…",Sat Mar 24 22:21:34 +0000 2018,0.0,0.0,1.0,0.0,79
+@CBS,"RT @MomCBS: ""You get to appreciate working with such talented people."" - @AnnaKFaris #Mom #PaleyFest",Sat Mar 24 22:21:26 +0000 2018,0.7184,0.333,0.667,0.0,80
+@CBS,The Las Vegas strip is about to light up brighter than ever before when Country Music’s Party Of The Year® takes ov… https://t.co/j1A2ZVHAoO,Sun Apr 01 17:00:03 +0000 2018,0.6486,0.202,0.798,0.0,81
+@CBS,"“If you don’t do something about it, then who are you? … It can happen to anyone.” - @aplusk 
+
+Tonight at 10/9c, a… https://t.co/EQabNc1UZI",Sat Mar 31 18:00:00 +0000 2018,0.0,0.0,1.0,0.0,82
+@CBS,Give it up for @KelseaBallerini! This star is one of the Female Vocalist Of The Year nominees and she's ready to ta… https://t.co/wLyHwkEGs2,Sat Mar 31 15:30:00 +0000 2018,0.4199,0.113,0.887,0.0,83
+@CBS,Take and post a photo of the woman in your life who inspires you! The photo should only have one person against a n… https://t.co/BHdxXlWfKP,Fri Mar 30 16:50:00 +0000 2018,0.4926,0.127,0.873,0.0,84
+@CBS,"Expect epic performances by @kanebrown , @kelly_clarkson, @OfficialJackson, and more at this year's 53rd #ACMawards… https://t.co/3yso7Z0cjv",Thu Mar 29 17:32:40 +0000 2018,0.0,0.0,1.0,0.0,85
+@CBS,"Will @HIGHVALLEY, @LancoMusic, @LOCASHmusic, @MidlandOfficial, or @runawayjune be named New Vocal Duo Or Group Of T… https://t.co/v0QIPLC47R",Thu Mar 29 17:30:02 +0000 2018,0.0,0.0,1.0,0.0,86
+@CBS,Count on Entertainer Of The Year nominee @LukeBryanOnline to crash the party with an epic performance at the 53rd… https://t.co/27ua60HTqu,Tue Mar 27 21:00:01 +0000 2018,0.3818,0.212,0.68,0.108,87
+@CBS,Join @eltonofficial and some of today's hottest names in music when they take the stage to perform his most memorab… https://t.co/jz0jaShZIj,Tue Mar 27 17:00:00 +0000 2018,0.296,0.099,0.901,0.0,88
+@CBS,"RT @ACMawards: The ACM for New Vocal Group of the Year goes to @MidlandOfficial! And yes, that really was @Reba on the phone! #ACMawards ht…",Mon Mar 26 22:14:25 +0000 2018,0.508,0.12,0.88,0.0,89
+@CBS,"RT @ACMawards: In case you didn’t know, the ACM for New Male Vocalist of the Year goes to @BrettYoungMusic. Check out his reaction when @Re…",Mon Mar 26 20:42:48 +0000 2018,0.0,0.0,1.0,0.0,90
+@CBS,RT @ACMawards: Over the weekend @Reba called the ACM New Artist of the Year winners to let them know they had won! Let’s just say our New F…,Mon Mar 26 16:59:19 +0000 2018,0.7959,0.214,0.786,0.0,91
+@CBS,"Congratulations to the 53rd #ACMawards New Artist winners @Lauren_Alaina, @MidlandOfficial, and @BrettYoungMusic! W… https://t.co/Fr8H4arwGj",Mon Mar 26 16:05:18 +0000 2018,0.807,0.378,0.622,0.0,92
+@CBS,New start times in East/Central Time Zones #60Minutes 7:35ET/6:35CT #Instinct  8:35ET/7:35CT #NCISLA 9:35ET/8:35CT… https://t.co/8W5hAeLrvs,Sun Mar 25 23:57:34 +0000 2018,0.0,0.0,1.0,0.0,93
+@CBS,Don’t miss a minute of the action. Stream the Elite Eight® games LIVE today starting at 2PM ET with a FREE trial of… https://t.co/8NwU8HdiHR,Sun Mar 25 17:15:25 +0000 2018,0.5319,0.157,0.78,0.062,94
+@CBS,RT @MomCBS: That's a wrap on the #Mom panel at #PaleyFest! Thanks for following along! https://t.co/we4JgqPt6P,Sat Mar 24 22:46:53 +0000 2018,0.5399,0.199,0.801,0.0,95
+@CBS,RT @MomCBS: A fan just commented that #Mom helped bring him out of a deep depression. 💜💜💜 #PaleyFest,Sat Mar 24 22:46:43 +0000 2018,-0.34,0.115,0.7,0.185,96
+@CBS,"RT @MomCBS: ""Go out for it anyway. If you're good for the role, you're good for the role."" @theJaimePressly's advice for aspiring actors wi…",Sat Mar 24 22:25:03 +0000 2018,0.7003,0.209,0.791,0.0,97
+@CBS,RT @MomCBS: Mom Co-Creator @GemmaRBaker just pointed out her own #Mom in the audience at #PaleyFest! 💜,Sat Mar 24 22:21:37 +0000 2018,0.0,0.0,1.0,0.0,98
+@CBS,"RT @MomCBS: ""I'm not someone in recovery who goes to AA, but I have taken so much away from it...to take one day at a time."" - @theJaimePre…",Sat Mar 24 22:21:34 +0000 2018,0.0,0.0,1.0,0.0,99
+@CBS,"RT @MomCBS: ""You get to appreciate working with such talented people."" - @AnnaKFaris #Mom #PaleyFest",Sat Mar 24 22:21:26 +0000 2018,0.7184,0.333,0.667,0.0,100
+@CNN,"After years of unchecked power and corruption, one man's crusade will divide the Catholic church forever. #Pope ton… https://t.co/RMo0XniG13",Sun Apr 01 18:45:13 +0000 2018,0.0,0.0,1.0,0.0,1
+@CNN,"Hackers have stolen information for more than 5 million credit and debit cards used at Saks Fifth Avenue, Saks Off… https://t.co/UJwIVPKaYD",Sun Apr 01 18:30:03 +0000 2018,-0.0865,0.119,0.748,0.133,2
+@CNN,Las Vegas hockey team retires No. 58 to honor concert victims https://t.co/wAl24fsTmE https://t.co/HjeEAhuTn4,Sun Apr 01 18:15:06 +0000 2018,-0.0772,0.181,0.565,0.254,3
+@CNN,Thunder Snow seals success in the $10 million Dubai World Cup https://t.co/PlJeyHcF7A https://t.co/wOtOjVJlth,Sun Apr 01 18:00:15 +0000 2018,0.5719,0.236,0.764,0.0,4
+@CNN,Sacramento sheriff's vehicle hits protester at Stephon Clark vigil https://t.co/BE2Ueg7Lth https://t.co/M3zelqBzHQ,Sun Apr 01 17:45:04 +0000 2018,0.0,0.0,1.0,0.0,5
+@CNN,Pope Francis in Easter service baptizes migrant hailed as a hero https://t.co/jFIq7g3Byf https://t.co/WNzni2VTS3,Sun Apr 01 17:30:07 +0000 2018,0.6705,0.355,0.645,0.0,6
+@CNN,"Secret Service investigating vandalism at Trump golf club in Florida, sheriff's office says https://t.co/efJ39IUEpN https://t.co/y5FITF6EVF",Sun Apr 01 17:15:10 +0000 2018,0.0,0.0,1.0,0.0,7
+@CNN,"The timing of the Gaza protest is no coincidence, writes Nic Robertson for @CNNOpinion https://t.co/Wy4he4kbnI https://t.co/LkSSBOU4yt",Sun Apr 01 17:00:02 +0000 2018,-0.4939,0.0,0.769,0.231,8
+@CNN,"New book alleges Kellyanne Conway is the ""number one leaker"" in President Trump's White House… https://t.co/YoQc0c4lX1",Sun Apr 01 16:45:46 +0000 2018,0.0772,0.08,0.92,0.0,9
+@CNN,"Rebel Syrian fighters evacuated from besieged Douma, state TV says https://t.co/WakvBH5g5Z https://t.co/VOefylsnq6",Sun Apr 01 16:30:13 +0000 2018,-0.2023,0.0,0.781,0.219,10
+@CNN,Harry and Meghan's royal wedding florist opts for white roses and peonies https://t.co/hjcg9EfFrZ https://t.co/OYSJQgHA2a,Sun Apr 01 16:15:07 +0000 2018,0.0,0.0,1.0,0.0,11
+@CNN,Are stocks still ridiculously expensive? https://t.co/XGqej8v1rh https://t.co/hh13aRQFBa,Sun Apr 01 16:00:13 +0000 2018,-0.34,0.0,0.714,0.286,12
+@CNN,"Lawsuit claims CVS unintentionally revealed HIV status of 6,000 customers in Ohio https://t.co/BsCm3LPXVs https://t.co/JRuHm1MHtv",Sun Apr 01 15:46:17 +0000 2018,-0.2263,0.0,0.872,0.128,13
+@CNN,JUST IN: President Trump says there will be no deal with Democrats to legalize thousands of undocumented immigrants… https://t.co/xvUkmIvXWY,Sun Apr 01 15:02:27 +0000 2018,-0.296,0.0,0.891,0.109,14
+@CNN,"While Larry Nassar was sexually abusing gymnasts at Twistars Gymnastics in Michigan, famed Olympic coach John Gedde… https://t.co/MSh9kOrIii",Sun Apr 01 15:00:03 +0000 2018,-0.4588,0.0,0.85,0.15,15
+@CNN,Body camera shows officer threatened to shoot Alton Sterling within seconds https://t.co/WUwgfuoqoC https://t.co/dF9ZyURLmb,Sun Apr 01 14:30:15 +0000 2018,-0.6597,0.0,0.671,0.329,16
+@CNN,"""We're just scared of the water..."" Welcome to Martin County, Kentucky, where the tap water smells like diesel fuel… https://t.co/Rk85an10QM",Sun Apr 01 14:00:11 +0000 2018,0.3818,0.217,0.669,0.114,17
+@CNN,"The way that some ""political employees have behaved"" has led to a ""difficult environment,"" at the VA, says former S… https://t.co/HMOt6vMyCH",Sun Apr 01 13:46:28 +0000 2018,-0.3612,0.0,0.884,0.116,18
+@CNN,"""The President is committed to improving the care for veterans,"" says former Secretary of Veteran Affairs, David Sh… https://t.co/S2OgBIhJQ2",Sun Apr 01 13:35:48 +0000 2018,0.7964,0.336,0.664,0.0,19
+@CNN,"It took Baton Rouge police Officer Salamoni Blane less than 90 seconds to shoot Alton Sterling, but police took nea… https://t.co/5ggcasemxU",Sun Apr 01 13:30:10 +0000 2018,-0.1779,0.0,0.922,0.078,20
+@CNN,"After years of unchecked power and corruption, one man's crusade will divide the Catholic church forever. #Pope ton… https://t.co/RMo0XniG13",Sun Apr 01 18:45:13 +0000 2018,0.0,0.0,1.0,0.0,21
+@CNN,"Hackers have stolen information for more than 5 million credit and debit cards used at Saks Fifth Avenue, Saks Off… https://t.co/UJwIVPKaYD",Sun Apr 01 18:30:03 +0000 2018,-0.0865,0.119,0.748,0.133,22
+@CNN,Las Vegas hockey team retires No. 58 to honor concert victims https://t.co/wAl24fsTmE https://t.co/HjeEAhuTn4,Sun Apr 01 18:15:06 +0000 2018,-0.0772,0.181,0.565,0.254,23
+@CNN,Thunder Snow seals success in the $10 million Dubai World Cup https://t.co/PlJeyHcF7A https://t.co/wOtOjVJlth,Sun Apr 01 18:00:15 +0000 2018,0.5719,0.236,0.764,0.0,24
+@CNN,Sacramento sheriff's vehicle hits protester at Stephon Clark vigil https://t.co/BE2Ueg7Lth https://t.co/M3zelqBzHQ,Sun Apr 01 17:45:04 +0000 2018,0.0,0.0,1.0,0.0,25
+@CNN,Pope Francis in Easter service baptizes migrant hailed as a hero https://t.co/jFIq7g3Byf https://t.co/WNzni2VTS3,Sun Apr 01 17:30:07 +0000 2018,0.6705,0.355,0.645,0.0,26
+@CNN,"Secret Service investigating vandalism at Trump golf club in Florida, sheriff's office says https://t.co/efJ39IUEpN https://t.co/y5FITF6EVF",Sun Apr 01 17:15:10 +0000 2018,0.0,0.0,1.0,0.0,27
+@CNN,"The timing of the Gaza protest is no coincidence, writes Nic Robertson for @CNNOpinion https://t.co/Wy4he4kbnI https://t.co/LkSSBOU4yt",Sun Apr 01 17:00:02 +0000 2018,-0.4939,0.0,0.769,0.231,28
+@CNN,"New book alleges Kellyanne Conway is the ""number one leaker"" in President Trump's White House… https://t.co/YoQc0c4lX1",Sun Apr 01 16:45:46 +0000 2018,0.0772,0.08,0.92,0.0,29
+@CNN,"Rebel Syrian fighters evacuated from besieged Douma, state TV says https://t.co/WakvBH5g5Z https://t.co/VOefylsnq6",Sun Apr 01 16:30:13 +0000 2018,-0.2023,0.0,0.781,0.219,30
+@CNN,Harry and Meghan's royal wedding florist opts for white roses and peonies https://t.co/hjcg9EfFrZ https://t.co/OYSJQgHA2a,Sun Apr 01 16:15:07 +0000 2018,0.0,0.0,1.0,0.0,31
+@CNN,Are stocks still ridiculously expensive? https://t.co/XGqej8v1rh https://t.co/hh13aRQFBa,Sun Apr 01 16:00:13 +0000 2018,-0.34,0.0,0.714,0.286,32
+@CNN,"Lawsuit claims CVS unintentionally revealed HIV status of 6,000 customers in Ohio https://t.co/BsCm3LPXVs https://t.co/JRuHm1MHtv",Sun Apr 01 15:46:17 +0000 2018,-0.2263,0.0,0.872,0.128,33
+@CNN,JUST IN: President Trump says there will be no deal with Democrats to legalize thousands of undocumented immigrants… https://t.co/xvUkmIvXWY,Sun Apr 01 15:02:27 +0000 2018,-0.296,0.0,0.891,0.109,34
+@CNN,"While Larry Nassar was sexually abusing gymnasts at Twistars Gymnastics in Michigan, famed Olympic coach John Gedde… https://t.co/MSh9kOrIii",Sun Apr 01 15:00:03 +0000 2018,-0.4588,0.0,0.85,0.15,35
+@CNN,Body camera shows officer threatened to shoot Alton Sterling within seconds https://t.co/WUwgfuoqoC https://t.co/dF9ZyURLmb,Sun Apr 01 14:30:15 +0000 2018,-0.6597,0.0,0.671,0.329,36
+@CNN,"""We're just scared of the water..."" Welcome to Martin County, Kentucky, where the tap water smells like diesel fuel… https://t.co/Rk85an10QM",Sun Apr 01 14:00:11 +0000 2018,0.3818,0.217,0.669,0.114,37
+@CNN,"The way that some ""political employees have behaved"" has led to a ""difficult environment,"" at the VA, says former S… https://t.co/HMOt6vMyCH",Sun Apr 01 13:46:28 +0000 2018,-0.3612,0.0,0.884,0.116,38
+@CNN,"""The President is committed to improving the care for veterans,"" says former Secretary of Veteran Affairs, David Sh… https://t.co/S2OgBIhJQ2",Sun Apr 01 13:35:48 +0000 2018,0.7964,0.336,0.664,0.0,39
+@CNN,"It took Baton Rouge police Officer Salamoni Blane less than 90 seconds to shoot Alton Sterling, but police took nea… https://t.co/5ggcasemxU",Sun Apr 01 13:30:10 +0000 2018,-0.1779,0.0,0.922,0.078,40
+@CNN,"After years of unchecked power and corruption, one man's crusade will divide the Catholic church forever. #Pope ton… https://t.co/RMo0XniG13",Sun Apr 01 18:45:13 +0000 2018,0.0,0.0,1.0,0.0,41
+@CNN,"Hackers have stolen information for more than 5 million credit and debit cards used at Saks Fifth Avenue, Saks Off… https://t.co/UJwIVPKaYD",Sun Apr 01 18:30:03 +0000 2018,-0.0865,0.119,0.748,0.133,42
+@CNN,Las Vegas hockey team retires No. 58 to honor concert victims https://t.co/wAl24fsTmE https://t.co/HjeEAhuTn4,Sun Apr 01 18:15:06 +0000 2018,-0.0772,0.181,0.565,0.254,43
+@CNN,Thunder Snow seals success in the $10 million Dubai World Cup https://t.co/PlJeyHcF7A https://t.co/wOtOjVJlth,Sun Apr 01 18:00:15 +0000 2018,0.5719,0.236,0.764,0.0,44
+@CNN,Sacramento sheriff's vehicle hits protester at Stephon Clark vigil https://t.co/BE2Ueg7Lth https://t.co/M3zelqBzHQ,Sun Apr 01 17:45:04 +0000 2018,0.0,0.0,1.0,0.0,45
+@CNN,Pope Francis in Easter service baptizes migrant hailed as a hero https://t.co/jFIq7g3Byf https://t.co/WNzni2VTS3,Sun Apr 01 17:30:07 +0000 2018,0.6705,0.355,0.645,0.0,46
+@CNN,"Secret Service investigating vandalism at Trump golf club in Florida, sheriff's office says https://t.co/efJ39IUEpN https://t.co/y5FITF6EVF",Sun Apr 01 17:15:10 +0000 2018,0.0,0.0,1.0,0.0,47
+@CNN,"The timing of the Gaza protest is no coincidence, writes Nic Robertson for @CNNOpinion https://t.co/Wy4he4kbnI https://t.co/LkSSBOU4yt",Sun Apr 01 17:00:02 +0000 2018,-0.4939,0.0,0.769,0.231,48
+@CNN,"New book alleges Kellyanne Conway is the ""number one leaker"" in President Trump's White House… https://t.co/YoQc0c4lX1",Sun Apr 01 16:45:46 +0000 2018,0.0772,0.08,0.92,0.0,49
+@CNN,"Rebel Syrian fighters evacuated from besieged Douma, state TV says https://t.co/WakvBH5g5Z https://t.co/VOefylsnq6",Sun Apr 01 16:30:13 +0000 2018,-0.2023,0.0,0.781,0.219,50
+@CNN,Harry and Meghan's royal wedding florist opts for white roses and peonies https://t.co/hjcg9EfFrZ https://t.co/OYSJQgHA2a,Sun Apr 01 16:15:07 +0000 2018,0.0,0.0,1.0,0.0,51
+@CNN,Are stocks still ridiculously expensive? https://t.co/XGqej8v1rh https://t.co/hh13aRQFBa,Sun Apr 01 16:00:13 +0000 2018,-0.34,0.0,0.714,0.286,52
+@CNN,"Lawsuit claims CVS unintentionally revealed HIV status of 6,000 customers in Ohio https://t.co/BsCm3LPXVs https://t.co/JRuHm1MHtv",Sun Apr 01 15:46:17 +0000 2018,-0.2263,0.0,0.872,0.128,53
+@CNN,JUST IN: President Trump says there will be no deal with Democrats to legalize thousands of undocumented immigrants… https://t.co/xvUkmIvXWY,Sun Apr 01 15:02:27 +0000 2018,-0.296,0.0,0.891,0.109,54
+@CNN,"While Larry Nassar was sexually abusing gymnasts at Twistars Gymnastics in Michigan, famed Olympic coach John Gedde… https://t.co/MSh9kOrIii",Sun Apr 01 15:00:03 +0000 2018,-0.4588,0.0,0.85,0.15,55
+@CNN,Body camera shows officer threatened to shoot Alton Sterling within seconds https://t.co/WUwgfuoqoC https://t.co/dF9ZyURLmb,Sun Apr 01 14:30:15 +0000 2018,-0.6597,0.0,0.671,0.329,56
+@CNN,"""We're just scared of the water..."" Welcome to Martin County, Kentucky, where the tap water smells like diesel fuel… https://t.co/Rk85an10QM",Sun Apr 01 14:00:11 +0000 2018,0.3818,0.217,0.669,0.114,57
+@CNN,"The way that some ""political employees have behaved"" has led to a ""difficult environment,"" at the VA, says former S… https://t.co/HMOt6vMyCH",Sun Apr 01 13:46:28 +0000 2018,-0.3612,0.0,0.884,0.116,58
+@CNN,"""The President is committed to improving the care for veterans,"" says former Secretary of Veteran Affairs, David Sh… https://t.co/S2OgBIhJQ2",Sun Apr 01 13:35:48 +0000 2018,0.7964,0.336,0.664,0.0,59
+@CNN,"It took Baton Rouge police Officer Salamoni Blane less than 90 seconds to shoot Alton Sterling, but police took nea… https://t.co/5ggcasemxU",Sun Apr 01 13:30:10 +0000 2018,-0.1779,0.0,0.922,0.078,60
+@CNN,"After years of unchecked power and corruption, one man's crusade will divide the Catholic church forever. #Pope ton… https://t.co/RMo0XniG13",Sun Apr 01 18:45:13 +0000 2018,0.0,0.0,1.0,0.0,61
+@CNN,"Hackers have stolen information for more than 5 million credit and debit cards used at Saks Fifth Avenue, Saks Off… https://t.co/UJwIVPKaYD",Sun Apr 01 18:30:03 +0000 2018,-0.0865,0.119,0.748,0.133,62
+@CNN,Las Vegas hockey team retires No. 58 to honor concert victims https://t.co/wAl24fsTmE https://t.co/HjeEAhuTn4,Sun Apr 01 18:15:06 +0000 2018,-0.0772,0.181,0.565,0.254,63
+@CNN,Thunder Snow seals success in the $10 million Dubai World Cup https://t.co/PlJeyHcF7A https://t.co/wOtOjVJlth,Sun Apr 01 18:00:15 +0000 2018,0.5719,0.236,0.764,0.0,64
+@CNN,Sacramento sheriff's vehicle hits protester at Stephon Clark vigil https://t.co/BE2Ueg7Lth https://t.co/M3zelqBzHQ,Sun Apr 01 17:45:04 +0000 2018,0.0,0.0,1.0,0.0,65
+@CNN,Pope Francis in Easter service baptizes migrant hailed as a hero https://t.co/jFIq7g3Byf https://t.co/WNzni2VTS3,Sun Apr 01 17:30:07 +0000 2018,0.6705,0.355,0.645,0.0,66
+@CNN,"Secret Service investigating vandalism at Trump golf club in Florida, sheriff's office says https://t.co/efJ39IUEpN https://t.co/y5FITF6EVF",Sun Apr 01 17:15:10 +0000 2018,0.0,0.0,1.0,0.0,67
+@CNN,"The timing of the Gaza protest is no coincidence, writes Nic Robertson for @CNNOpinion https://t.co/Wy4he4kbnI https://t.co/LkSSBOU4yt",Sun Apr 01 17:00:02 +0000 2018,-0.4939,0.0,0.769,0.231,68
+@CNN,"New book alleges Kellyanne Conway is the ""number one leaker"" in President Trump's White House… https://t.co/YoQc0c4lX1",Sun Apr 01 16:45:46 +0000 2018,0.0772,0.08,0.92,0.0,69
+@CNN,"Rebel Syrian fighters evacuated from besieged Douma, state TV says https://t.co/WakvBH5g5Z https://t.co/VOefylsnq6",Sun Apr 01 16:30:13 +0000 2018,-0.2023,0.0,0.781,0.219,70
+@CNN,Harry and Meghan's royal wedding florist opts for white roses and peonies https://t.co/hjcg9EfFrZ https://t.co/OYSJQgHA2a,Sun Apr 01 16:15:07 +0000 2018,0.0,0.0,1.0,0.0,71
+@CNN,Are stocks still ridiculously expensive? https://t.co/XGqej8v1rh https://t.co/hh13aRQFBa,Sun Apr 01 16:00:13 +0000 2018,-0.34,0.0,0.714,0.286,72
+@CNN,"Lawsuit claims CVS unintentionally revealed HIV status of 6,000 customers in Ohio https://t.co/BsCm3LPXVs https://t.co/JRuHm1MHtv",Sun Apr 01 15:46:17 +0000 2018,-0.2263,0.0,0.872,0.128,73
+@CNN,JUST IN: President Trump says there will be no deal with Democrats to legalize thousands of undocumented immigrants… https://t.co/xvUkmIvXWY,Sun Apr 01 15:02:27 +0000 2018,-0.296,0.0,0.891,0.109,74
+@CNN,"While Larry Nassar was sexually abusing gymnasts at Twistars Gymnastics in Michigan, famed Olympic coach John Gedde… https://t.co/MSh9kOrIii",Sun Apr 01 15:00:03 +0000 2018,-0.4588,0.0,0.85,0.15,75
+@CNN,Body camera shows officer threatened to shoot Alton Sterling within seconds https://t.co/WUwgfuoqoC https://t.co/dF9ZyURLmb,Sun Apr 01 14:30:15 +0000 2018,-0.6597,0.0,0.671,0.329,76
+@CNN,"""We're just scared of the water..."" Welcome to Martin County, Kentucky, where the tap water smells like diesel fuel… https://t.co/Rk85an10QM",Sun Apr 01 14:00:11 +0000 2018,0.3818,0.217,0.669,0.114,77
+@CNN,"The way that some ""political employees have behaved"" has led to a ""difficult environment,"" at the VA, says former S… https://t.co/HMOt6vMyCH",Sun Apr 01 13:46:28 +0000 2018,-0.3612,0.0,0.884,0.116,78
+@CNN,"""The President is committed to improving the care for veterans,"" says former Secretary of Veteran Affairs, David Sh… https://t.co/S2OgBIhJQ2",Sun Apr 01 13:35:48 +0000 2018,0.7964,0.336,0.664,0.0,79
+@CNN,"It took Baton Rouge police Officer Salamoni Blane less than 90 seconds to shoot Alton Sterling, but police took nea… https://t.co/5ggcasemxU",Sun Apr 01 13:30:10 +0000 2018,-0.1779,0.0,0.922,0.078,80
+@CNN,"After years of unchecked power and corruption, one man's crusade will divide the Catholic church forever. #Pope ton… https://t.co/RMo0XniG13",Sun Apr 01 18:45:13 +0000 2018,0.0,0.0,1.0,0.0,81
+@CNN,"Hackers have stolen information for more than 5 million credit and debit cards used at Saks Fifth Avenue, Saks Off… https://t.co/UJwIVPKaYD",Sun Apr 01 18:30:03 +0000 2018,-0.0865,0.119,0.748,0.133,82
+@CNN,Las Vegas hockey team retires No. 58 to honor concert victims https://t.co/wAl24fsTmE https://t.co/HjeEAhuTn4,Sun Apr 01 18:15:06 +0000 2018,-0.0772,0.181,0.565,0.254,83
+@CNN,Thunder Snow seals success in the $10 million Dubai World Cup https://t.co/PlJeyHcF7A https://t.co/wOtOjVJlth,Sun Apr 01 18:00:15 +0000 2018,0.5719,0.236,0.764,0.0,84
+@CNN,Sacramento sheriff's vehicle hits protester at Stephon Clark vigil https://t.co/BE2Ueg7Lth https://t.co/M3zelqBzHQ,Sun Apr 01 17:45:04 +0000 2018,0.0,0.0,1.0,0.0,85
+@CNN,Pope Francis in Easter service baptizes migrant hailed as a hero https://t.co/jFIq7g3Byf https://t.co/WNzni2VTS3,Sun Apr 01 17:30:07 +0000 2018,0.6705,0.355,0.645,0.0,86
+@CNN,"Secret Service investigating vandalism at Trump golf club in Florida, sheriff's office says https://t.co/efJ39IUEpN https://t.co/y5FITF6EVF",Sun Apr 01 17:15:10 +0000 2018,0.0,0.0,1.0,0.0,87
+@CNN,"The timing of the Gaza protest is no coincidence, writes Nic Robertson for @CNNOpinion https://t.co/Wy4he4kbnI https://t.co/LkSSBOU4yt",Sun Apr 01 17:00:02 +0000 2018,-0.4939,0.0,0.769,0.231,88
+@CNN,"New book alleges Kellyanne Conway is the ""number one leaker"" in President Trump's White House… https://t.co/YoQc0c4lX1",Sun Apr 01 16:45:46 +0000 2018,0.0772,0.08,0.92,0.0,89
+@CNN,"Rebel Syrian fighters evacuated from besieged Douma, state TV says https://t.co/WakvBH5g5Z https://t.co/VOefylsnq6",Sun Apr 01 16:30:13 +0000 2018,-0.2023,0.0,0.781,0.219,90
+@CNN,Harry and Meghan's royal wedding florist opts for white roses and peonies https://t.co/hjcg9EfFrZ https://t.co/OYSJQgHA2a,Sun Apr 01 16:15:07 +0000 2018,0.0,0.0,1.0,0.0,91
+@CNN,Are stocks still ridiculously expensive? https://t.co/XGqej8v1rh https://t.co/hh13aRQFBa,Sun Apr 01 16:00:13 +0000 2018,-0.34,0.0,0.714,0.286,92
+@CNN,"Lawsuit claims CVS unintentionally revealed HIV status of 6,000 customers in Ohio https://t.co/BsCm3LPXVs https://t.co/JRuHm1MHtv",Sun Apr 01 15:46:17 +0000 2018,-0.2263,0.0,0.872,0.128,93
+@CNN,JUST IN: President Trump says there will be no deal with Democrats to legalize thousands of undocumented immigrants… https://t.co/xvUkmIvXWY,Sun Apr 01 15:02:27 +0000 2018,-0.296,0.0,0.891,0.109,94
+@CNN,"While Larry Nassar was sexually abusing gymnasts at Twistars Gymnastics in Michigan, famed Olympic coach John Gedde… https://t.co/MSh9kOrIii",Sun Apr 01 15:00:03 +0000 2018,-0.4588,0.0,0.85,0.15,95
+@CNN,Body camera shows officer threatened to shoot Alton Sterling within seconds https://t.co/WUwgfuoqoC https://t.co/dF9ZyURLmb,Sun Apr 01 14:30:15 +0000 2018,-0.6597,0.0,0.671,0.329,96
+@CNN,"""We're just scared of the water..."" Welcome to Martin County, Kentucky, where the tap water smells like diesel fuel… https://t.co/Rk85an10QM",Sun Apr 01 14:00:11 +0000 2018,0.3818,0.217,0.669,0.114,97
+@CNN,"The way that some ""political employees have behaved"" has led to a ""difficult environment,"" at the VA, says former S… https://t.co/HMOt6vMyCH",Sun Apr 01 13:46:28 +0000 2018,-0.3612,0.0,0.884,0.116,98
+@CNN,"""The President is committed to improving the care for veterans,"" says former Secretary of Veteran Affairs, David Sh… https://t.co/S2OgBIhJQ2",Sun Apr 01 13:35:48 +0000 2018,0.7964,0.336,0.664,0.0,99
+@CNN,"It took Baton Rouge police Officer Salamoni Blane less than 90 seconds to shoot Alton Sterling, but police took nea… https://t.co/5ggcasemxU",Sun Apr 01 13:30:10 +0000 2018,-0.1779,0.0,0.922,0.078,100
+@FoxNews,".@BradSherman: ""Federal government establishes immigration policy....Whether California employees are going to spen… https://t.co/NC5nm7aeCA",Sun Apr 01 18:51:36 +0000 2018,0.0,0.0,1.0,0.0,1
+@FoxNews,"RT @FoxBusiness: .@AnnCoulter on @POTUS: ""As soon as he gets to the White House suddenly all he wants is the approval of the Manhattan fanc…",Sun Apr 01 18:50:59 +0000 2018,0.4767,0.114,0.886,0.0,2
+@FoxNews,"RT @FoxBusiness: Steven Spielberg's ""Ready Player One"" tops holiday box office
+https://t.co/iNobniarN6",Sun Apr 01 18:50:51 +0000 2018,0.8176,0.486,0.514,0.0,3
+@FoxNews,"Shawn Nelson on 2020 census: ""I don't want California to miss out on anything, but I think that hysteria than answe… https://t.co/dxZ3oZLljt",Sun Apr 01 18:47:18 +0000 2018,-0.6441,0.0,0.742,0.258,4
+@FoxNews,"Catherine Lucey on Russia probe: ""In terms of collusion specifically, that's just not going to be put to rest until… https://t.co/nbIYOUtL6N",Sun Apr 01 18:41:19 +0000 2018,0.0,0.0,1.0,0.0,5
+@FoxNews,".@LindseyGrahamSC on Syria: ""Well, Mr. President, when it comes to Russia, read the Ronald Reagan playbook. When it… https://t.co/CbcXKtwNMc",Sun Apr 01 18:31:37 +0000 2018,0.0,0.0,1.0,0.0,6
+@FoxNews,"TONIGHT: The Civil War Begins on Episode 2 of 'Legends &amp; Lies', hosted by Brian @Kilmeade - Tune in at 8p ET on Fox… https://t.co/3ZzQWvf0aQ",Sun Apr 01 18:30:01 +0000 2018,-0.5994,0.0,0.849,0.151,7
+@FoxNews,".@LindseyGrahamSC: ""The reason that North Korea is at the table is that this maximum pressure campaign against Nort… https://t.co/fsgsGRJxkl",Sun Apr 01 18:26:53 +0000 2018,-0.296,0.0,0.891,0.109,8
+@FoxNews,".@LindseyGrahamSC: ""I think the problem is that Russia is running wild. Whatever we're doing is not working and the… https://t.co/GaGVdIuWxV",Sun Apr 01 18:23:14 +0000 2018,-0.4019,0.0,0.876,0.124,9
+@FoxNews,".@LindseyGrahamSC on Russia relations: ""If I were @POTUS, I'd look at the Reagan playbook and economically isolate… https://t.co/T0asEdL9Fv",Sun Apr 01 18:21:32 +0000 2018,0.0,0.0,1.0,0.0,10
+@FoxNews,"London murder rate beats New York for month as stabbings surge - via @christocarbone
+https://t.co/mhcVCaX4bs",Sun Apr 01 18:19:02 +0000 2018,-0.6908,0.0,0.734,0.266,11
+@FoxNews,Brother of Florida shooting victim says he was shut out of March for Our Lives because speech 'didn't fit into the… https://t.co/b7ZAwfPPFG,Sun Apr 01 18:10:27 +0000 2018,-0.4956,0.0,0.826,0.174,12
+@FoxNews,"RT @EricShawnTV: I anchor @Foxnews at 4pm EDT with @ArthelNeville. Israel says Hamas is trying to send terrorists across the Gaza border, P…",Sun Apr 01 18:08:16 +0000 2018,-0.6249,0.0,0.837,0.163,13
+@FoxNews,"President @realDonaldTrump, @FLOTUS Melania Trump, and @TiffanyATrump attend #Easter services at Episcopal Church o… https://t.co/X4fA9ZpHy0",Sun Apr 01 17:59:27 +0000 2018,0.0,0.0,1.0,0.0,14
+@FoxNews,Trump vs. Amazon: Here’s what could happen - via @FoxBusiness https://t.co/BgD1vHgP6Q,Sun Apr 01 17:56:35 +0000 2018,0.1779,0.159,0.841,0.0,15
+@FoxNews,"Female private school counselor, 25, arrested after admitting to sex with underage student https://t.co/2VnbWXbfDK",Sun Apr 01 17:35:34 +0000 2018,-0.4767,0.0,0.807,0.193,16
+@FoxNews,"Moments ago, @FLOTUS wished everyone a Happy #Easter. https://t.co/xAIgIPdhNp",Sun Apr 01 17:28:12 +0000 2018,0.5719,0.346,0.654,0.0,17
+@FoxNews,".@TomiLahren: ""We need to make sure that Americans come first in California and the rest of the country."" https://t.co/8gg3up74kQ",Sun Apr 01 17:23:52 +0000 2018,0.3182,0.113,0.887,0.0,18
+@FoxNews,"Chloe Deaton: ""Personally, I don't believe that gun control is the best idea. Everyone has the right to have their… https://t.co/IqoHisI0GH",Sun Apr 01 17:11:15 +0000 2018,0.738,0.257,0.743,0.0,19
+@FoxNews,Zlatan Ibrahimovic scores stunning goal in MLS debut https://t.co/J669q4Wcj9,Sun Apr 01 17:01:31 +0000 2018,0.3818,0.245,0.755,0.0,20
+@FoxNews,".@BradSherman: ""Federal government establishes immigration policy....Whether California employees are going to spen… https://t.co/NC5nm7aeCA",Sun Apr 01 18:51:36 +0000 2018,0.0,0.0,1.0,0.0,21
+@FoxNews,"RT @FoxBusiness: .@AnnCoulter on @POTUS: ""As soon as he gets to the White House suddenly all he wants is the approval of the Manhattan fanc…",Sun Apr 01 18:50:59 +0000 2018,0.4767,0.114,0.886,0.0,22
+@FoxNews,"RT @FoxBusiness: Steven Spielberg's ""Ready Player One"" tops holiday box office
+https://t.co/iNobniarN6",Sun Apr 01 18:50:51 +0000 2018,0.8176,0.486,0.514,0.0,23
+@FoxNews,"Shawn Nelson on 2020 census: ""I don't want California to miss out on anything, but I think that hysteria than answe… https://t.co/dxZ3oZLljt",Sun Apr 01 18:47:18 +0000 2018,-0.6441,0.0,0.742,0.258,24
+@FoxNews,"Catherine Lucey on Russia probe: ""In terms of collusion specifically, that's just not going to be put to rest until… https://t.co/nbIYOUtL6N",Sun Apr 01 18:41:19 +0000 2018,0.0,0.0,1.0,0.0,25
+@FoxNews,".@LindseyGrahamSC on Syria: ""Well, Mr. President, when it comes to Russia, read the Ronald Reagan playbook. When it… https://t.co/CbcXKtwNMc",Sun Apr 01 18:31:37 +0000 2018,0.0,0.0,1.0,0.0,26
+@FoxNews,"TONIGHT: The Civil War Begins on Episode 2 of 'Legends &amp; Lies', hosted by Brian @Kilmeade - Tune in at 8p ET on Fox… https://t.co/3ZzQWvf0aQ",Sun Apr 01 18:30:01 +0000 2018,-0.5994,0.0,0.849,0.151,27
+@FoxNews,".@LindseyGrahamSC: ""The reason that North Korea is at the table is that this maximum pressure campaign against Nort… https://t.co/fsgsGRJxkl",Sun Apr 01 18:26:53 +0000 2018,-0.296,0.0,0.891,0.109,28
+@FoxNews,".@LindseyGrahamSC: ""I think the problem is that Russia is running wild. Whatever we're doing is not working and the… https://t.co/GaGVdIuWxV",Sun Apr 01 18:23:14 +0000 2018,-0.4019,0.0,0.876,0.124,29
+@FoxNews,".@LindseyGrahamSC on Russia relations: ""If I were @POTUS, I'd look at the Reagan playbook and economically isolate… https://t.co/T0asEdL9Fv",Sun Apr 01 18:21:32 +0000 2018,0.0,0.0,1.0,0.0,30
+@FoxNews,"London murder rate beats New York for month as stabbings surge - via @christocarbone
+https://t.co/mhcVCaX4bs",Sun Apr 01 18:19:02 +0000 2018,-0.6908,0.0,0.734,0.266,31
+@FoxNews,Brother of Florida shooting victim says he was shut out of March for Our Lives because speech 'didn't fit into the… https://t.co/b7ZAwfPPFG,Sun Apr 01 18:10:27 +0000 2018,-0.4956,0.0,0.826,0.174,32
+@FoxNews,"RT @EricShawnTV: I anchor @Foxnews at 4pm EDT with @ArthelNeville. Israel says Hamas is trying to send terrorists across the Gaza border, P…",Sun Apr 01 18:08:16 +0000 2018,-0.6249,0.0,0.837,0.163,33
+@FoxNews,"President @realDonaldTrump, @FLOTUS Melania Trump, and @TiffanyATrump attend #Easter services at Episcopal Church o… https://t.co/X4fA9ZpHy0",Sun Apr 01 17:59:27 +0000 2018,0.0,0.0,1.0,0.0,34
+@FoxNews,Trump vs. Amazon: Here’s what could happen - via @FoxBusiness https://t.co/BgD1vHgP6Q,Sun Apr 01 17:56:35 +0000 2018,0.1779,0.159,0.841,0.0,35
+@FoxNews,"Female private school counselor, 25, arrested after admitting to sex with underage student https://t.co/2VnbWXbfDK",Sun Apr 01 17:35:34 +0000 2018,-0.4767,0.0,0.807,0.193,36
+@FoxNews,"Moments ago, @FLOTUS wished everyone a Happy #Easter. https://t.co/xAIgIPdhNp",Sun Apr 01 17:28:12 +0000 2018,0.5719,0.346,0.654,0.0,37
+@FoxNews,".@TomiLahren: ""We need to make sure that Americans come first in California and the rest of the country."" https://t.co/8gg3up74kQ",Sun Apr 01 17:23:52 +0000 2018,0.3182,0.113,0.887,0.0,38
+@FoxNews,"Chloe Deaton: ""Personally, I don't believe that gun control is the best idea. Everyone has the right to have their… https://t.co/IqoHisI0GH",Sun Apr 01 17:11:15 +0000 2018,0.738,0.257,0.743,0.0,39
+@FoxNews,Zlatan Ibrahimovic scores stunning goal in MLS debut https://t.co/J669q4Wcj9,Sun Apr 01 17:01:31 +0000 2018,0.3818,0.245,0.755,0.0,40
+@FoxNews,".@BradSherman: ""Federal government establishes immigration policy....Whether California employees are going to spen… https://t.co/NC5nm7aeCA",Sun Apr 01 18:51:36 +0000 2018,0.0,0.0,1.0,0.0,41
+@FoxNews,"RT @FoxBusiness: .@AnnCoulter on @POTUS: ""As soon as he gets to the White House suddenly all he wants is the approval of the Manhattan fanc…",Sun Apr 01 18:50:59 +0000 2018,0.4767,0.114,0.886,0.0,42
+@FoxNews,"RT @FoxBusiness: Steven Spielberg's ""Ready Player One"" tops holiday box office
+https://t.co/iNobniarN6",Sun Apr 01 18:50:51 +0000 2018,0.8176,0.486,0.514,0.0,43
+@FoxNews,"Shawn Nelson on 2020 census: ""I don't want California to miss out on anything, but I think that hysteria than answe… https://t.co/dxZ3oZLljt",Sun Apr 01 18:47:18 +0000 2018,-0.6441,0.0,0.742,0.258,44
+@FoxNews,"Catherine Lucey on Russia probe: ""In terms of collusion specifically, that's just not going to be put to rest until… https://t.co/nbIYOUtL6N",Sun Apr 01 18:41:19 +0000 2018,0.0,0.0,1.0,0.0,45
+@FoxNews,".@LindseyGrahamSC on Syria: ""Well, Mr. President, when it comes to Russia, read the Ronald Reagan playbook. When it… https://t.co/CbcXKtwNMc",Sun Apr 01 18:31:37 +0000 2018,0.0,0.0,1.0,0.0,46
+@FoxNews,"TONIGHT: The Civil War Begins on Episode 2 of 'Legends &amp; Lies', hosted by Brian @Kilmeade - Tune in at 8p ET on Fox… https://t.co/3ZzQWvf0aQ",Sun Apr 01 18:30:01 +0000 2018,-0.5994,0.0,0.849,0.151,47
+@FoxNews,".@LindseyGrahamSC: ""The reason that North Korea is at the table is that this maximum pressure campaign against Nort… https://t.co/fsgsGRJxkl",Sun Apr 01 18:26:53 +0000 2018,-0.296,0.0,0.891,0.109,48
+@FoxNews,".@LindseyGrahamSC: ""I think the problem is that Russia is running wild. Whatever we're doing is not working and the… https://t.co/GaGVdIuWxV",Sun Apr 01 18:23:14 +0000 2018,-0.4019,0.0,0.876,0.124,49
+@FoxNews,".@LindseyGrahamSC on Russia relations: ""If I were @POTUS, I'd look at the Reagan playbook and economically isolate… https://t.co/T0asEdL9Fv",Sun Apr 01 18:21:32 +0000 2018,0.0,0.0,1.0,0.0,50
+@FoxNews,"London murder rate beats New York for month as stabbings surge - via @christocarbone
+https://t.co/mhcVCaX4bs",Sun Apr 01 18:19:02 +0000 2018,-0.6908,0.0,0.734,0.266,51
+@FoxNews,Brother of Florida shooting victim says he was shut out of March for Our Lives because speech 'didn't fit into the… https://t.co/b7ZAwfPPFG,Sun Apr 01 18:10:27 +0000 2018,-0.4956,0.0,0.826,0.174,52
+@FoxNews,"RT @EricShawnTV: I anchor @Foxnews at 4pm EDT with @ArthelNeville. Israel says Hamas is trying to send terrorists across the Gaza border, P…",Sun Apr 01 18:08:16 +0000 2018,-0.6249,0.0,0.837,0.163,53
+@FoxNews,"President @realDonaldTrump, @FLOTUS Melania Trump, and @TiffanyATrump attend #Easter services at Episcopal Church o… https://t.co/X4fA9ZpHy0",Sun Apr 01 17:59:27 +0000 2018,0.0,0.0,1.0,0.0,54
+@FoxNews,Trump vs. Amazon: Here’s what could happen - via @FoxBusiness https://t.co/BgD1vHgP6Q,Sun Apr 01 17:56:35 +0000 2018,0.1779,0.159,0.841,0.0,55
+@FoxNews,"Female private school counselor, 25, arrested after admitting to sex with underage student https://t.co/2VnbWXbfDK",Sun Apr 01 17:35:34 +0000 2018,-0.4767,0.0,0.807,0.193,56
+@FoxNews,"Moments ago, @FLOTUS wished everyone a Happy #Easter. https://t.co/xAIgIPdhNp",Sun Apr 01 17:28:12 +0000 2018,0.5719,0.346,0.654,0.0,57
+@FoxNews,".@TomiLahren: ""We need to make sure that Americans come first in California and the rest of the country."" https://t.co/8gg3up74kQ",Sun Apr 01 17:23:52 +0000 2018,0.3182,0.113,0.887,0.0,58
+@FoxNews,"Chloe Deaton: ""Personally, I don't believe that gun control is the best idea. Everyone has the right to have their… https://t.co/IqoHisI0GH",Sun Apr 01 17:11:15 +0000 2018,0.738,0.257,0.743,0.0,59
+@FoxNews,Zlatan Ibrahimovic scores stunning goal in MLS debut https://t.co/J669q4Wcj9,Sun Apr 01 17:01:31 +0000 2018,0.3818,0.245,0.755,0.0,60
+@FoxNews,".@BradSherman: ""Federal government establishes immigration policy....Whether California employees are going to spen… https://t.co/NC5nm7aeCA",Sun Apr 01 18:51:36 +0000 2018,0.0,0.0,1.0,0.0,61
+@FoxNews,"RT @FoxBusiness: .@AnnCoulter on @POTUS: ""As soon as he gets to the White House suddenly all he wants is the approval of the Manhattan fanc…",Sun Apr 01 18:50:59 +0000 2018,0.4767,0.114,0.886,0.0,62
+@FoxNews,"RT @FoxBusiness: Steven Spielberg's ""Ready Player One"" tops holiday box office
+https://t.co/iNobniarN6",Sun Apr 01 18:50:51 +0000 2018,0.8176,0.486,0.514,0.0,63
+@FoxNews,"Shawn Nelson on 2020 census: ""I don't want California to miss out on anything, but I think that hysteria than answe… https://t.co/dxZ3oZLljt",Sun Apr 01 18:47:18 +0000 2018,-0.6441,0.0,0.742,0.258,64
+@FoxNews,"Catherine Lucey on Russia probe: ""In terms of collusion specifically, that's just not going to be put to rest until… https://t.co/nbIYOUtL6N",Sun Apr 01 18:41:19 +0000 2018,0.0,0.0,1.0,0.0,65
+@FoxNews,".@LindseyGrahamSC on Syria: ""Well, Mr. President, when it comes to Russia, read the Ronald Reagan playbook. When it… https://t.co/CbcXKtwNMc",Sun Apr 01 18:31:37 +0000 2018,0.0,0.0,1.0,0.0,66
+@FoxNews,"TONIGHT: The Civil War Begins on Episode 2 of 'Legends &amp; Lies', hosted by Brian @Kilmeade - Tune in at 8p ET on Fox… https://t.co/3ZzQWvf0aQ",Sun Apr 01 18:30:01 +0000 2018,-0.5994,0.0,0.849,0.151,67
+@FoxNews,".@LindseyGrahamSC: ""The reason that North Korea is at the table is that this maximum pressure campaign against Nort… https://t.co/fsgsGRJxkl",Sun Apr 01 18:26:53 +0000 2018,-0.296,0.0,0.891,0.109,68
+@FoxNews,".@LindseyGrahamSC: ""I think the problem is that Russia is running wild. Whatever we're doing is not working and the… https://t.co/GaGVdIuWxV",Sun Apr 01 18:23:14 +0000 2018,-0.4019,0.0,0.876,0.124,69
+@FoxNews,".@LindseyGrahamSC on Russia relations: ""If I were @POTUS, I'd look at the Reagan playbook and economically isolate… https://t.co/T0asEdL9Fv",Sun Apr 01 18:21:32 +0000 2018,0.0,0.0,1.0,0.0,70
+@FoxNews,"London murder rate beats New York for month as stabbings surge - via @christocarbone
+https://t.co/mhcVCaX4bs",Sun Apr 01 18:19:02 +0000 2018,-0.6908,0.0,0.734,0.266,71
+@FoxNews,Brother of Florida shooting victim says he was shut out of March for Our Lives because speech 'didn't fit into the… https://t.co/b7ZAwfPPFG,Sun Apr 01 18:10:27 +0000 2018,-0.4956,0.0,0.826,0.174,72
+@FoxNews,"RT @EricShawnTV: I anchor @Foxnews at 4pm EDT with @ArthelNeville. Israel says Hamas is trying to send terrorists across the Gaza border, P…",Sun Apr 01 18:08:16 +0000 2018,-0.6249,0.0,0.837,0.163,73
+@FoxNews,"President @realDonaldTrump, @FLOTUS Melania Trump, and @TiffanyATrump attend #Easter services at Episcopal Church o… https://t.co/X4fA9ZpHy0",Sun Apr 01 17:59:27 +0000 2018,0.0,0.0,1.0,0.0,74
+@FoxNews,Trump vs. Amazon: Here’s what could happen - via @FoxBusiness https://t.co/BgD1vHgP6Q,Sun Apr 01 17:56:35 +0000 2018,0.1779,0.159,0.841,0.0,75
+@FoxNews,"Female private school counselor, 25, arrested after admitting to sex with underage student https://t.co/2VnbWXbfDK",Sun Apr 01 17:35:34 +0000 2018,-0.4767,0.0,0.807,0.193,76
+@FoxNews,"Moments ago, @FLOTUS wished everyone a Happy #Easter. https://t.co/xAIgIPdhNp",Sun Apr 01 17:28:12 +0000 2018,0.5719,0.346,0.654,0.0,77
+@FoxNews,".@TomiLahren: ""We need to make sure that Americans come first in California and the rest of the country."" https://t.co/8gg3up74kQ",Sun Apr 01 17:23:52 +0000 2018,0.3182,0.113,0.887,0.0,78
+@FoxNews,"Chloe Deaton: ""Personally, I don't believe that gun control is the best idea. Everyone has the right to have their… https://t.co/IqoHisI0GH",Sun Apr 01 17:11:15 +0000 2018,0.738,0.257,0.743,0.0,79
+@FoxNews,Zlatan Ibrahimovic scores stunning goal in MLS debut https://t.co/J669q4Wcj9,Sun Apr 01 17:01:31 +0000 2018,0.3818,0.245,0.755,0.0,80
+@FoxNews,".@BradSherman: ""Federal government establishes immigration policy....Whether California employees are going to spen… https://t.co/NC5nm7aeCA",Sun Apr 01 18:51:36 +0000 2018,0.0,0.0,1.0,0.0,81
+@FoxNews,"RT @FoxBusiness: .@AnnCoulter on @POTUS: ""As soon as he gets to the White House suddenly all he wants is the approval of the Manhattan fanc…",Sun Apr 01 18:50:59 +0000 2018,0.4767,0.114,0.886,0.0,82
+@FoxNews,"RT @FoxBusiness: Steven Spielberg's ""Ready Player One"" tops holiday box office
+https://t.co/iNobniarN6",Sun Apr 01 18:50:51 +0000 2018,0.8176,0.486,0.514,0.0,83
+@FoxNews,"Shawn Nelson on 2020 census: ""I don't want California to miss out on anything, but I think that hysteria than answe… https://t.co/dxZ3oZLljt",Sun Apr 01 18:47:18 +0000 2018,-0.6441,0.0,0.742,0.258,84
+@FoxNews,"Catherine Lucey on Russia probe: ""In terms of collusion specifically, that's just not going to be put to rest until… https://t.co/nbIYOUtL6N",Sun Apr 01 18:41:19 +0000 2018,0.0,0.0,1.0,0.0,85
+@FoxNews,".@LindseyGrahamSC on Syria: ""Well, Mr. President, when it comes to Russia, read the Ronald Reagan playbook. When it… https://t.co/CbcXKtwNMc",Sun Apr 01 18:31:37 +0000 2018,0.0,0.0,1.0,0.0,86
+@FoxNews,"TONIGHT: The Civil War Begins on Episode 2 of 'Legends &amp; Lies', hosted by Brian @Kilmeade - Tune in at 8p ET on Fox… https://t.co/3ZzQWvf0aQ",Sun Apr 01 18:30:01 +0000 2018,-0.5994,0.0,0.849,0.151,87
+@FoxNews,".@LindseyGrahamSC: ""The reason that North Korea is at the table is that this maximum pressure campaign against Nort… https://t.co/fsgsGRJxkl",Sun Apr 01 18:26:53 +0000 2018,-0.296,0.0,0.891,0.109,88
+@FoxNews,".@LindseyGrahamSC: ""I think the problem is that Russia is running wild. Whatever we're doing is not working and the… https://t.co/GaGVdIuWxV",Sun Apr 01 18:23:14 +0000 2018,-0.4019,0.0,0.876,0.124,89
+@FoxNews,".@LindseyGrahamSC on Russia relations: ""If I were @POTUS, I'd look at the Reagan playbook and economically isolate… https://t.co/T0asEdL9Fv",Sun Apr 01 18:21:32 +0000 2018,0.0,0.0,1.0,0.0,90
+@FoxNews,"London murder rate beats New York for month as stabbings surge - via @christocarbone
+https://t.co/mhcVCaX4bs",Sun Apr 01 18:19:02 +0000 2018,-0.6908,0.0,0.734,0.266,91
+@FoxNews,Brother of Florida shooting victim says he was shut out of March for Our Lives because speech 'didn't fit into the… https://t.co/b7ZAwfPPFG,Sun Apr 01 18:10:27 +0000 2018,-0.4956,0.0,0.826,0.174,92
+@FoxNews,"RT @EricShawnTV: I anchor @Foxnews at 4pm EDT with @ArthelNeville. Israel says Hamas is trying to send terrorists across the Gaza border, P…",Sun Apr 01 18:08:16 +0000 2018,-0.6249,0.0,0.837,0.163,93
+@FoxNews,"President @realDonaldTrump, @FLOTUS Melania Trump, and @TiffanyATrump attend #Easter services at Episcopal Church o… https://t.co/X4fA9ZpHy0",Sun Apr 01 17:59:27 +0000 2018,0.0,0.0,1.0,0.0,94
+@FoxNews,Trump vs. Amazon: Here’s what could happen - via @FoxBusiness https://t.co/BgD1vHgP6Q,Sun Apr 01 17:56:35 +0000 2018,0.1779,0.159,0.841,0.0,95
+@FoxNews,"Female private school counselor, 25, arrested after admitting to sex with underage student https://t.co/2VnbWXbfDK",Sun Apr 01 17:35:34 +0000 2018,-0.4767,0.0,0.807,0.193,96
+@FoxNews,"Moments ago, @FLOTUS wished everyone a Happy #Easter. https://t.co/xAIgIPdhNp",Sun Apr 01 17:28:12 +0000 2018,0.5719,0.346,0.654,0.0,97
+@FoxNews,".@TomiLahren: ""We need to make sure that Americans come first in California and the rest of the country."" https://t.co/8gg3up74kQ",Sun Apr 01 17:23:52 +0000 2018,0.3182,0.113,0.887,0.0,98
+@FoxNews,"Chloe Deaton: ""Personally, I don't believe that gun control is the best idea. Everyone has the right to have their… https://t.co/IqoHisI0GH",Sun Apr 01 17:11:15 +0000 2018,0.738,0.257,0.743,0.0,99
+@FoxNews,Zlatan Ibrahimovic scores stunning goal in MLS debut https://t.co/J669q4Wcj9,Sun Apr 01 17:01:31 +0000 2018,0.3818,0.245,0.755,0.0,100
+@nytimes,"Micheal Brown applied to 20 highly selective colleges.
+He got into all of them.
+They all offered him full rides. https://t.co/hB3FH0ncFL",Sun Apr 01 18:52:05 +0000 2018,0.0,0.0,1.0,0.0,1
+@nytimes,"Julia Kristeva, at 76, is one of Europe’s most decorated public intellectuals. The Bulgarian government alleges she… https://t.co/r4mBwSjPcu",Sun Apr 01 18:42:03 +0000 2018,0.4336,0.144,0.856,0.0,2
+@nytimes,"“At the end of the day, we want people to also think about us when they think about cowboys, not just a bunch of wh… https://t.co/XGZxE4STww",Sun Apr 01 18:29:00 +0000 2018,0.0772,0.051,0.949,0.0,3
+@nytimes,"A rodeo horse can cost up to $50,000, but the Compton Cowboys rely on auctioned horses that cost $200. “The throwaw… https://t.co/G2K4Wbh8RI",Sun Apr 01 18:24:00 +0000 2018,0.0,0.0,1.0,0.0,4
+@nytimes,Maintaining the horses at a Compton farm requires consistent maintenance. But Anthony Harris doesn’t mind. “I was a… https://t.co/Tn1jJBOphF,Sun Apr 01 18:21:00 +0000 2018,0.0,0.0,1.0,0.0,5
+@nytimes,"“We’re different than most cowboys because we wear Air Jordan’s, Gucci belts and baseball hats.” 
+
+On top of helpin… https://t.co/6kmmxTFZG4",Sun Apr 01 18:18:28 +0000 2018,0.2023,0.087,0.913,0.0,6
+@nytimes,Most of the Compton Cowboys were encouraged to join the organization by those who believed horse riding would offer… https://t.co/zjVJzX4DP0,Sun Apr 01 18:16:00 +0000 2018,0.5719,0.207,0.793,0.0,7
+@nytimes,“They don’t pull us over or search us when we’re on the horses. They would have thought we were gangbangers and had… https://t.co/X6iFAPsYvv,Sun Apr 01 18:13:00 +0000 2018,0.0,0.0,1.0,0.0,8
+@nytimes,"For Anthony Harris, walking to the corner store often comes with the risk of being searched by the police. But when… https://t.co/IRzvi8nYdN",Sun Apr 01 18:11:00 +0000 2018,-0.2732,0.0,0.909,0.091,9
+@nytimes,The Compton Cowboys are 10 friends on a mission to combat negative stereotypes about African-Americans and the city… https://t.co/2YdUrXiRHI,Sun Apr 01 18:08:05 +0000 2018,-0.4588,0.128,0.62,0.252,10
+@nytimes,RT @nytimesmusic: Sunday playlist: 10 new songs you need to hear https://t.co/v8ergHPSSO,Sun Apr 01 18:00:35 +0000 2018,0.0,0.0,1.0,0.0,11
+@nytimes,China’s Tiangong-1 space station is expected to burn into Earth’s atmosphere late Sunday or early Monday https://t.co/gEf3oqL4vQ,Sun Apr 01 17:52:02 +0000 2018,0.0,0.0,1.0,0.0,12
+@nytimes,"The data, according to a cybersecurity firm, appears to have been stolen using software that was implanted into the… https://t.co/igHyJKnrfR",Sun Apr 01 17:41:23 +0000 2018,-0.4939,0.0,0.849,0.151,13
+@nytimes,More than 5 million credit and debit card numbers have been stolen from Saks Fifth Avenue and Lord &amp; Taylor custome… https://t.co/U2y2qHlfqt,Sun Apr 01 17:40:25 +0000 2018,-0.0865,0.114,0.758,0.128,14
+@nytimes,Johan van Hulst helped save as many as 600 children from the Nazis. Yet he was haunted by what he could not do. https://t.co/XUQ1If2z3c,Sun Apr 01 17:32:05 +0000 2018,0.0258,0.113,0.777,0.11,15
+@nytimes,The Taliban uses these devices to maneuver on forces under the cover of darkness as they track the whirling blades… https://t.co/LZ4GqvdXIX,Sun Apr 01 17:22:06 +0000 2018,-0.25,0.0,0.909,0.091,16
+@nytimes,What to cook this week https://t.co/xz8A9Z9zy3,Sun Apr 01 17:12:01 +0000 2018,0.0,0.0,1.0,0.0,17
+@nytimes,A few Republicans have suggested that firing Robert Mueller would lead to President Trump’s impeachment. But it is… https://t.co/trKsAZMay9,Sun Apr 01 17:07:35 +0000 2018,-0.34,0.0,0.876,0.124,18
+@nytimes,"RT @nytimesbooks: Before Jesus' death, no one was looking for a savior who would suffer, die and rise again to offer redemption from sin an…",Sun Apr 01 17:02:03 +0000 2018,-0.9524,0.0,0.526,0.474,19
+@nytimes,A look inside the bomb lab where the ATF is examining evidence from the deadly Austin bombings https://t.co/W3qOkiQ3AA,Sun Apr 01 16:42:04 +0000 2018,0.6124,0.2,0.8,0.0,20
+@nytimes,"Micheal Brown applied to 20 highly selective colleges.
+He got into all of them.
+They all offered him full rides. https://t.co/hB3FH0ncFL",Sun Apr 01 18:52:05 +0000 2018,0.0,0.0,1.0,0.0,21
+@nytimes,"Julia Kristeva, at 76, is one of Europe’s most decorated public intellectuals. The Bulgarian government alleges she… https://t.co/r4mBwSjPcu",Sun Apr 01 18:42:03 +0000 2018,0.4336,0.144,0.856,0.0,22
+@nytimes,"“At the end of the day, we want people to also think about us when they think about cowboys, not just a bunch of wh… https://t.co/XGZxE4STww",Sun Apr 01 18:29:00 +0000 2018,0.0772,0.051,0.949,0.0,23
+@nytimes,"A rodeo horse can cost up to $50,000, but the Compton Cowboys rely on auctioned horses that cost $200. “The throwaw… https://t.co/G2K4Wbh8RI",Sun Apr 01 18:24:00 +0000 2018,0.0,0.0,1.0,0.0,24
+@nytimes,Maintaining the horses at a Compton farm requires consistent maintenance. But Anthony Harris doesn’t mind. “I was a… https://t.co/Tn1jJBOphF,Sun Apr 01 18:21:00 +0000 2018,0.0,0.0,1.0,0.0,25
+@nytimes,"“We’re different than most cowboys because we wear Air Jordan’s, Gucci belts and baseball hats.” 
+
+On top of helpin… https://t.co/6kmmxTFZG4",Sun Apr 01 18:18:28 +0000 2018,0.2023,0.087,0.913,0.0,26
+@nytimes,Most of the Compton Cowboys were encouraged to join the organization by those who believed horse riding would offer… https://t.co/zjVJzX4DP0,Sun Apr 01 18:16:00 +0000 2018,0.5719,0.207,0.793,0.0,27
+@nytimes,“They don’t pull us over or search us when we’re on the horses. They would have thought we were gangbangers and had… https://t.co/X6iFAPsYvv,Sun Apr 01 18:13:00 +0000 2018,0.0,0.0,1.0,0.0,28
+@nytimes,"For Anthony Harris, walking to the corner store often comes with the risk of being searched by the police. But when… https://t.co/IRzvi8nYdN",Sun Apr 01 18:11:00 +0000 2018,-0.2732,0.0,0.909,0.091,29
+@nytimes,The Compton Cowboys are 10 friends on a mission to combat negative stereotypes about African-Americans and the city… https://t.co/2YdUrXiRHI,Sun Apr 01 18:08:05 +0000 2018,-0.4588,0.128,0.62,0.252,30
+@nytimes,RT @nytimesmusic: Sunday playlist: 10 new songs you need to hear https://t.co/v8ergHPSSO,Sun Apr 01 18:00:35 +0000 2018,0.0,0.0,1.0,0.0,31
+@nytimes,China’s Tiangong-1 space station is expected to burn into Earth’s atmosphere late Sunday or early Monday https://t.co/gEf3oqL4vQ,Sun Apr 01 17:52:02 +0000 2018,0.0,0.0,1.0,0.0,32
+@nytimes,"The data, according to a cybersecurity firm, appears to have been stolen using software that was implanted into the… https://t.co/igHyJKnrfR",Sun Apr 01 17:41:23 +0000 2018,-0.4939,0.0,0.849,0.151,33
+@nytimes,More than 5 million credit and debit card numbers have been stolen from Saks Fifth Avenue and Lord &amp; Taylor custome… https://t.co/U2y2qHlfqt,Sun Apr 01 17:40:25 +0000 2018,-0.0865,0.114,0.758,0.128,34
+@nytimes,Johan van Hulst helped save as many as 600 children from the Nazis. Yet he was haunted by what he could not do. https://t.co/XUQ1If2z3c,Sun Apr 01 17:32:05 +0000 2018,0.0258,0.113,0.777,0.11,35
+@nytimes,The Taliban uses these devices to maneuver on forces under the cover of darkness as they track the whirling blades… https://t.co/LZ4GqvdXIX,Sun Apr 01 17:22:06 +0000 2018,-0.25,0.0,0.909,0.091,36
+@nytimes,What to cook this week https://t.co/xz8A9Z9zy3,Sun Apr 01 17:12:01 +0000 2018,0.0,0.0,1.0,0.0,37
+@nytimes,A few Republicans have suggested that firing Robert Mueller would lead to President Trump’s impeachment. But it is… https://t.co/trKsAZMay9,Sun Apr 01 17:07:35 +0000 2018,-0.34,0.0,0.876,0.124,38
+@nytimes,"RT @nytimesbooks: Before Jesus' death, no one was looking for a savior who would suffer, die and rise again to offer redemption from sin an…",Sun Apr 01 17:02:03 +0000 2018,-0.9524,0.0,0.526,0.474,39
+@nytimes,A look inside the bomb lab where the ATF is examining evidence from the deadly Austin bombings https://t.co/W3qOkiQ3AA,Sun Apr 01 16:42:04 +0000 2018,0.6124,0.2,0.8,0.0,40
+@nytimes,"Micheal Brown applied to 20 highly selective colleges.
+He got into all of them.
+They all offered him full rides. https://t.co/hB3FH0ncFL",Sun Apr 01 18:52:05 +0000 2018,0.0,0.0,1.0,0.0,41
+@nytimes,"Julia Kristeva, at 76, is one of Europe’s most decorated public intellectuals. The Bulgarian government alleges she… https://t.co/r4mBwSjPcu",Sun Apr 01 18:42:03 +0000 2018,0.4336,0.144,0.856,0.0,42
+@nytimes,"“At the end of the day, we want people to also think about us when they think about cowboys, not just a bunch of wh… https://t.co/XGZxE4STww",Sun Apr 01 18:29:00 +0000 2018,0.0772,0.051,0.949,0.0,43
+@nytimes,"A rodeo horse can cost up to $50,000, but the Compton Cowboys rely on auctioned horses that cost $200. “The throwaw… https://t.co/G2K4Wbh8RI",Sun Apr 01 18:24:00 +0000 2018,0.0,0.0,1.0,0.0,44
+@nytimes,Maintaining the horses at a Compton farm requires consistent maintenance. But Anthony Harris doesn’t mind. “I was a… https://t.co/Tn1jJBOphF,Sun Apr 01 18:21:00 +0000 2018,0.0,0.0,1.0,0.0,45
+@nytimes,"“We’re different than most cowboys because we wear Air Jordan’s, Gucci belts and baseball hats.” 
+
+On top of helpin… https://t.co/6kmmxTFZG4",Sun Apr 01 18:18:28 +0000 2018,0.2023,0.087,0.913,0.0,46
+@nytimes,Most of the Compton Cowboys were encouraged to join the organization by those who believed horse riding would offer… https://t.co/zjVJzX4DP0,Sun Apr 01 18:16:00 +0000 2018,0.5719,0.207,0.793,0.0,47
+@nytimes,“They don’t pull us over or search us when we’re on the horses. They would have thought we were gangbangers and had… https://t.co/X6iFAPsYvv,Sun Apr 01 18:13:00 +0000 2018,0.0,0.0,1.0,0.0,48
+@nytimes,"For Anthony Harris, walking to the corner store often comes with the risk of being searched by the police. But when… https://t.co/IRzvi8nYdN",Sun Apr 01 18:11:00 +0000 2018,-0.2732,0.0,0.909,0.091,49
+@nytimes,The Compton Cowboys are 10 friends on a mission to combat negative stereotypes about African-Americans and the city… https://t.co/2YdUrXiRHI,Sun Apr 01 18:08:05 +0000 2018,-0.4588,0.128,0.62,0.252,50
+@nytimes,RT @nytimesmusic: Sunday playlist: 10 new songs you need to hear https://t.co/v8ergHPSSO,Sun Apr 01 18:00:35 +0000 2018,0.0,0.0,1.0,0.0,51
+@nytimes,China’s Tiangong-1 space station is expected to burn into Earth’s atmosphere late Sunday or early Monday https://t.co/gEf3oqL4vQ,Sun Apr 01 17:52:02 +0000 2018,0.0,0.0,1.0,0.0,52
+@nytimes,"The data, according to a cybersecurity firm, appears to have been stolen using software that was implanted into the… https://t.co/igHyJKnrfR",Sun Apr 01 17:41:23 +0000 2018,-0.4939,0.0,0.849,0.151,53
+@nytimes,More than 5 million credit and debit card numbers have been stolen from Saks Fifth Avenue and Lord &amp; Taylor custome… https://t.co/U2y2qHlfqt,Sun Apr 01 17:40:25 +0000 2018,-0.0865,0.114,0.758,0.128,54
+@nytimes,Johan van Hulst helped save as many as 600 children from the Nazis. Yet he was haunted by what he could not do. https://t.co/XUQ1If2z3c,Sun Apr 01 17:32:05 +0000 2018,0.0258,0.113,0.777,0.11,55
+@nytimes,The Taliban uses these devices to maneuver on forces under the cover of darkness as they track the whirling blades… https://t.co/LZ4GqvdXIX,Sun Apr 01 17:22:06 +0000 2018,-0.25,0.0,0.909,0.091,56
+@nytimes,What to cook this week https://t.co/xz8A9Z9zy3,Sun Apr 01 17:12:01 +0000 2018,0.0,0.0,1.0,0.0,57
+@nytimes,A few Republicans have suggested that firing Robert Mueller would lead to President Trump’s impeachment. But it is… https://t.co/trKsAZMay9,Sun Apr 01 17:07:35 +0000 2018,-0.34,0.0,0.876,0.124,58
+@nytimes,"RT @nytimesbooks: Before Jesus' death, no one was looking for a savior who would suffer, die and rise again to offer redemption from sin an…",Sun Apr 01 17:02:03 +0000 2018,-0.9524,0.0,0.526,0.474,59
+@nytimes,A look inside the bomb lab where the ATF is examining evidence from the deadly Austin bombings https://t.co/W3qOkiQ3AA,Sun Apr 01 16:42:04 +0000 2018,0.6124,0.2,0.8,0.0,60
+@nytimes,"Micheal Brown applied to 20 highly selective colleges.
+He got into all of them.
+They all offered him full rides. https://t.co/hB3FH0ncFL",Sun Apr 01 18:52:05 +0000 2018,0.0,0.0,1.0,0.0,61
+@nytimes,"Julia Kristeva, at 76, is one of Europe’s most decorated public intellectuals. The Bulgarian government alleges she… https://t.co/r4mBwSjPcu",Sun Apr 01 18:42:03 +0000 2018,0.4336,0.144,0.856,0.0,62
+@nytimes,"“At the end of the day, we want people to also think about us when they think about cowboys, not just a bunch of wh… https://t.co/XGZxE4STww",Sun Apr 01 18:29:00 +0000 2018,0.0772,0.051,0.949,0.0,63
+@nytimes,"A rodeo horse can cost up to $50,000, but the Compton Cowboys rely on auctioned horses that cost $200. “The throwaw… https://t.co/G2K4Wbh8RI",Sun Apr 01 18:24:00 +0000 2018,0.0,0.0,1.0,0.0,64
+@nytimes,Maintaining the horses at a Compton farm requires consistent maintenance. But Anthony Harris doesn’t mind. “I was a… https://t.co/Tn1jJBOphF,Sun Apr 01 18:21:00 +0000 2018,0.0,0.0,1.0,0.0,65
+@nytimes,"“We’re different than most cowboys because we wear Air Jordan’s, Gucci belts and baseball hats.” 
+
+On top of helpin… https://t.co/6kmmxTFZG4",Sun Apr 01 18:18:28 +0000 2018,0.2023,0.087,0.913,0.0,66
+@nytimes,Most of the Compton Cowboys were encouraged to join the organization by those who believed horse riding would offer… https://t.co/zjVJzX4DP0,Sun Apr 01 18:16:00 +0000 2018,0.5719,0.207,0.793,0.0,67
+@nytimes,“They don’t pull us over or search us when we’re on the horses. They would have thought we were gangbangers and had… https://t.co/X6iFAPsYvv,Sun Apr 01 18:13:00 +0000 2018,0.0,0.0,1.0,0.0,68
+@nytimes,"For Anthony Harris, walking to the corner store often comes with the risk of being searched by the police. But when… https://t.co/IRzvi8nYdN",Sun Apr 01 18:11:00 +0000 2018,-0.2732,0.0,0.909,0.091,69
+@nytimes,The Compton Cowboys are 10 friends on a mission to combat negative stereotypes about African-Americans and the city… https://t.co/2YdUrXiRHI,Sun Apr 01 18:08:05 +0000 2018,-0.4588,0.128,0.62,0.252,70
+@nytimes,RT @nytimesmusic: Sunday playlist: 10 new songs you need to hear https://t.co/v8ergHPSSO,Sun Apr 01 18:00:35 +0000 2018,0.0,0.0,1.0,0.0,71
+@nytimes,China’s Tiangong-1 space station is expected to burn into Earth’s atmosphere late Sunday or early Monday https://t.co/gEf3oqL4vQ,Sun Apr 01 17:52:02 +0000 2018,0.0,0.0,1.0,0.0,72
+@nytimes,"The data, according to a cybersecurity firm, appears to have been stolen using software that was implanted into the… https://t.co/igHyJKnrfR",Sun Apr 01 17:41:23 +0000 2018,-0.4939,0.0,0.849,0.151,73
+@nytimes,More than 5 million credit and debit card numbers have been stolen from Saks Fifth Avenue and Lord &amp; Taylor custome… https://t.co/U2y2qHlfqt,Sun Apr 01 17:40:25 +0000 2018,-0.0865,0.114,0.758,0.128,74
+@nytimes,Johan van Hulst helped save as many as 600 children from the Nazis. Yet he was haunted by what he could not do. https://t.co/XUQ1If2z3c,Sun Apr 01 17:32:05 +0000 2018,0.0258,0.113,0.777,0.11,75
+@nytimes,The Taliban uses these devices to maneuver on forces under the cover of darkness as they track the whirling blades… https://t.co/LZ4GqvdXIX,Sun Apr 01 17:22:06 +0000 2018,-0.25,0.0,0.909,0.091,76
+@nytimes,What to cook this week https://t.co/xz8A9Z9zy3,Sun Apr 01 17:12:01 +0000 2018,0.0,0.0,1.0,0.0,77
+@nytimes,A few Republicans have suggested that firing Robert Mueller would lead to President Trump’s impeachment. But it is… https://t.co/trKsAZMay9,Sun Apr 01 17:07:35 +0000 2018,-0.34,0.0,0.876,0.124,78
+@nytimes,"RT @nytimesbooks: Before Jesus' death, no one was looking for a savior who would suffer, die and rise again to offer redemption from sin an…",Sun Apr 01 17:02:03 +0000 2018,-0.9524,0.0,0.526,0.474,79
+@nytimes,A look inside the bomb lab where the ATF is examining evidence from the deadly Austin bombings https://t.co/W3qOkiQ3AA,Sun Apr 01 16:42:04 +0000 2018,0.6124,0.2,0.8,0.0,80
+@nytimes,"Micheal Brown applied to 20 highly selective colleges.
+He got into all of them.
+They all offered him full rides. https://t.co/hB3FH0ncFL",Sun Apr 01 18:52:05 +0000 2018,0.0,0.0,1.0,0.0,81
+@nytimes,"Julia Kristeva, at 76, is one of Europe’s most decorated public intellectuals. The Bulgarian government alleges she… https://t.co/r4mBwSjPcu",Sun Apr 01 18:42:03 +0000 2018,0.4336,0.144,0.856,0.0,82
+@nytimes,"“At the end of the day, we want people to also think about us when they think about cowboys, not just a bunch of wh… https://t.co/XGZxE4STww",Sun Apr 01 18:29:00 +0000 2018,0.0772,0.051,0.949,0.0,83
+@nytimes,"A rodeo horse can cost up to $50,000, but the Compton Cowboys rely on auctioned horses that cost $200. “The throwaw… https://t.co/G2K4Wbh8RI",Sun Apr 01 18:24:00 +0000 2018,0.0,0.0,1.0,0.0,84
+@nytimes,Maintaining the horses at a Compton farm requires consistent maintenance. But Anthony Harris doesn’t mind. “I was a… https://t.co/Tn1jJBOphF,Sun Apr 01 18:21:00 +0000 2018,0.0,0.0,1.0,0.0,85
+@nytimes,"“We’re different than most cowboys because we wear Air Jordan’s, Gucci belts and baseball hats.” 
+
+On top of helpin… https://t.co/6kmmxTFZG4",Sun Apr 01 18:18:28 +0000 2018,0.2023,0.087,0.913,0.0,86
+@nytimes,Most of the Compton Cowboys were encouraged to join the organization by those who believed horse riding would offer… https://t.co/zjVJzX4DP0,Sun Apr 01 18:16:00 +0000 2018,0.5719,0.207,0.793,0.0,87
+@nytimes,“They don’t pull us over or search us when we’re on the horses. They would have thought we were gangbangers and had… https://t.co/X6iFAPsYvv,Sun Apr 01 18:13:00 +0000 2018,0.0,0.0,1.0,0.0,88
+@nytimes,"For Anthony Harris, walking to the corner store often comes with the risk of being searched by the police. But when… https://t.co/IRzvi8nYdN",Sun Apr 01 18:11:00 +0000 2018,-0.2732,0.0,0.909,0.091,89
+@nytimes,The Compton Cowboys are 10 friends on a mission to combat negative stereotypes about African-Americans and the city… https://t.co/2YdUrXiRHI,Sun Apr 01 18:08:05 +0000 2018,-0.4588,0.128,0.62,0.252,90
+@nytimes,RT @nytimesmusic: Sunday playlist: 10 new songs you need to hear https://t.co/v8ergHPSSO,Sun Apr 01 18:00:35 +0000 2018,0.0,0.0,1.0,0.0,91
+@nytimes,China’s Tiangong-1 space station is expected to burn into Earth’s atmosphere late Sunday or early Monday https://t.co/gEf3oqL4vQ,Sun Apr 01 17:52:02 +0000 2018,0.0,0.0,1.0,0.0,92
+@nytimes,"The data, according to a cybersecurity firm, appears to have been stolen using software that was implanted into the… https://t.co/igHyJKnrfR",Sun Apr 01 17:41:23 +0000 2018,-0.4939,0.0,0.849,0.151,93
+@nytimes,More than 5 million credit and debit card numbers have been stolen from Saks Fifth Avenue and Lord &amp; Taylor custome… https://t.co/U2y2qHlfqt,Sun Apr 01 17:40:25 +0000 2018,-0.0865,0.114,0.758,0.128,94
+@nytimes,Johan van Hulst helped save as many as 600 children from the Nazis. Yet he was haunted by what he could not do. https://t.co/XUQ1If2z3c,Sun Apr 01 17:32:05 +0000 2018,0.0258,0.113,0.777,0.11,95
+@nytimes,The Taliban uses these devices to maneuver on forces under the cover of darkness as they track the whirling blades… https://t.co/LZ4GqvdXIX,Sun Apr 01 17:22:06 +0000 2018,-0.25,0.0,0.909,0.091,96
+@nytimes,What to cook this week https://t.co/xz8A9Z9zy3,Sun Apr 01 17:12:01 +0000 2018,0.0,0.0,1.0,0.0,97
+@nytimes,A few Republicans have suggested that firing Robert Mueller would lead to President Trump’s impeachment. But it is… https://t.co/trKsAZMay9,Sun Apr 01 17:07:35 +0000 2018,-0.34,0.0,0.876,0.124,98
+@nytimes,"RT @nytimesbooks: Before Jesus' death, no one was looking for a savior who would suffer, die and rise again to offer redemption from sin an…",Sun Apr 01 17:02:03 +0000 2018,-0.9524,0.0,0.526,0.474,99
+@nytimes,A look inside the bomb lab where the ATF is examining evidence from the deadly Austin bombings https://t.co/W3qOkiQ3AA,Sun Apr 01 16:42:04 +0000 2018,0.6124,0.2,0.8,0.0,100
